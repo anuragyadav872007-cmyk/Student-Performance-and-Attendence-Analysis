@@ -1,0 +1,2001 @@
+Roll_No,Name,Branch,Marks,Attendance,Result,Attendance_Status,Performance
+1001,Student_0001,ME,90,52,Pass,Short Attendance,Excellent
+1002,Student_0002,CE,51,43,Pass,Short Attendance,Good
+1003,Student_0003,IT,30,61,Fail,Short Attendance,Poor
+1004,Student_0004,CE,29,46,Fail,Short Attendance,Poor
+1005,Student_0005,CE,92,100,Pass,Eligible,Excellent
+1006,Student_0006,ECE,97,82,Pass,Eligible,Excellent
+1007,Student_0007,IT,96,93,Pass,Eligible,Excellent
+1008,Student_0008,IT,76,63,Pass,Short Attendance,Very Good
+1009,Student_0009,IT,44,43,Pass,Short Attendance,Average
+1010,Student_0010,CE,21,67,Fail,Short Attendance,Poor
+1011,Student_0011,ME,83,54,Pass,Short Attendance,Very Good
+1012,Student_0012,IT,54,40,Pass,Short Attendance,Good
+1013,Student_0013,CE,26,94,Fail,Eligible,Poor
+1014,Student_0014,ECE,37,42,Fail,Short Attendance,Poor
+1015,Student_0015,ME,86,53,Pass,Short Attendance,Excellent
+1016,Student_0016,ECE,61,77,Pass,Eligible,Good
+1017,Student_0017,ME,58,89,Pass,Eligible,Good
+1018,Student_0018,CE,60,96,Pass,Eligible,Good
+1019,Student_0019,CSE,94,40,Pass,Short Attendance,Excellent
+1020,Student_0020,ME,43,77,Pass,Eligible,Average
+1021,Student_0021,ECE,79,77,Pass,Eligible,Very Good
+1022,Student_0022,CE,65,60,Pass,Short Attendance,Good
+1023,Student_0023,ME,38,87,Fail,Eligible,Poor
+1024,Student_0024,CSE,87,68,Pass,Short Attendance,Excellent
+1025,Student_0025,CSE,61,44,Pass,Short Attendance,Good
+1026,Student_0026,IT,51,88,Pass,Eligible,Good
+1027,Student_0027,IT,58,49,Pass,Short Attendance,Good
+1028,Student_0028,ECE,55,67,Pass,Short Attendance,Good
+1029,Student_0029,ME,55,60,Pass,Short Attendance,Good
+1030,Student_0030,ME,22,89,Fail,Eligible,Poor
+1031,Student_0031,IT,92,46,Pass,Short Attendance,Excellent
+1032,Student_0032,ME,27,42,Fail,Short Attendance,Poor
+1033,Student_0033,ME,89,84,Pass,Eligible,Excellent
+1034,Student_0034,CSE,60,86,Pass,Eligible,Good
+1035,Student_0035,IT,87,59,Pass,Short Attendance,Excellent
+1036,Student_0036,CE,32,58,Fail,Short Attendance,Poor
+1037,Student_0037,IT,68,74,Pass,Short Attendance,Good
+1038,Student_0038,CE,79,43,Pass,Short Attendance,Very Good
+1039,Student_0039,CSE,21,44,Fail,Short Attendance,Poor
+1040,Student_0040,ECE,79,40,Pass,Short Attendance,Very Good
+1041,Student_0041,ME,24,43,Fail,Short Attendance,Poor
+1042,Student_0042,CSE,63,51,Pass,Short Attendance,Good
+1043,Student_0043,ME,46,99,Pass,Eligible,Average
+1044,Student_0044,ECE,51,66,Pass,Short Attendance,Good
+1045,Student_0045,ECE,40,95,Pass,Eligible,Average
+1046,Student_0046,CSE,27,81,Fail,Eligible,Poor
+1047,Student_0047,ECE,91,62,Pass,Short Attendance,Excellent
+1048,Student_0048,CE,69,64,Pass,Short Attendance,Good
+1049,Student_0049,ECE,86,60,Pass,Short Attendance,Excellent
+1050,Student_0050,ME,63,100,Pass,Eligible,Good
+1051,Student_0051,ME,77,97,Pass,Eligible,Very Good
+1052,Student_0052,ME,22,91,Fail,Eligible,Poor
+1053,Student_0053,ME,89,63,Pass,Short Attendance,Excellent
+1054,Student_0054,CE,21,64,Fail,Short Attendance,Poor
+1055,Student_0055,IT,63,84,Pass,Eligible,Good
+1056,Student_0056,CSE,21,94,Fail,Eligible,Poor
+1057,Student_0057,ME,100,85,Pass,Eligible,Excellent
+1058,Student_0058,ECE,54,71,Pass,Short Attendance,Good
+1059,Student_0059,ME,49,94,Pass,Eligible,Average
+1060,Student_0060,ECE,27,71,Fail,Short Attendance,Poor
+1061,Student_0061,ECE,41,44,Pass,Short Attendance,Average
+1062,Student_0062,ME,63,75,Pass,Eligible,Good
+1063,Student_0063,CE,77,85,Pass,Eligible,Very Good
+1064,Student_0064,ECE,55,81,Pass,Eligible,Good
+1065,Student_0065,ECE,88,88,Pass,Eligible,Excellent
+1066,Student_0066,ME,96,81,Pass,Eligible,Excellent
+1067,Student_0067,ECE,50,97,Pass,Eligible,Good
+1068,Student_0068,ECE,66,78,Pass,Eligible,Good
+1069,Student_0069,ME,74,55,Pass,Short Attendance,Very Good
+1070,Student_0070,ME,99,72,Pass,Short Attendance,Excellent
+1071,Student_0071,CSE,81,88,Pass,Eligible,Very Good
+1072,Student_0072,CE,49,60,Pass,Short Attendance,Average
+1073,Student_0073,CE,74,100,Pass,Eligible,Very Good
+1074,Student_0074,ECE,35,48,Fail,Short Attendance,Poor
+1075,Student_0075,CE,31,45,Fail,Short Attendance,Poor
+1076,Student_0076,ECE,36,90,Fail,Eligible,Poor
+1077,Student_0077,CSE,35,84,Fail,Eligible,Poor
+1078,Student_0078,ME,31,74,Fail,Short Attendance,Poor
+1079,Student_0079,ME,27,78,Fail,Eligible,Poor
+1080,Student_0080,ME,22,61,Fail,Short Attendance,Poor
+1081,Student_0081,CE,35,80,Fail,Eligible,Poor
+1082,Student_0082,CSE,49,93,Pass,Eligible,Average
+1083,Student_0083,CE,42,44,Pass,Short Attendance,Average
+1084,Student_0084,CE,24,81,Fail,Eligible,Poor
+1085,Student_0085,CSE,84,62,Pass,Short Attendance,Very Good
+1086,Student_0086,CSE,49,56,Pass,Short Attendance,Average
+1087,Student_0087,CSE,40,51,Pass,Short Attendance,Average
+1088,Student_0088,CSE,89,62,Pass,Short Attendance,Excellent
+1089,Student_0089,ME,41,55,Pass,Short Attendance,Average
+1090,Student_0090,IT,91,42,Pass,Short Attendance,Excellent
+1091,Student_0091,IT,51,69,Pass,Short Attendance,Good
+1092,Student_0092,CSE,52,96,Pass,Eligible,Good
+1093,Student_0093,IT,35,61,Fail,Short Attendance,Poor
+1094,Student_0094,IT,95,48,Pass,Short Attendance,Excellent
+1095,Student_0095,CSE,57,68,Pass,Short Attendance,Good
+1096,Student_0096,IT,33,86,Fail,Eligible,Poor
+1097,Student_0097,CE,55,76,Pass,Eligible,Good
+1098,Student_0098,ECE,42,62,Pass,Short Attendance,Average
+1099,Student_0099,ECE,85,52,Pass,Short Attendance,Excellent
+1100,Student_0100,CSE,21,71,Fail,Short Attendance,Poor
+1101,Student_0101,ME,92,85,Pass,Eligible,Excellent
+1102,Student_0102,CSE,84,91,Pass,Eligible,Very Good
+1103,Student_0103,ME,94,86,Pass,Eligible,Excellent
+1104,Student_0104,ECE,86,87,Pass,Eligible,Excellent
+1105,Student_0105,CSE,71,62,Pass,Short Attendance,Very Good
+1106,Student_0106,CE,81,84,Pass,Eligible,Very Good
+1107,Student_0107,IT,42,56,Pass,Short Attendance,Average
+1108,Student_0108,ME,45,94,Pass,Eligible,Average
+1109,Student_0109,IT,87,79,Pass,Eligible,Excellent
+1110,Student_0110,IT,74,60,Pass,Short Attendance,Very Good
+1111,Student_0111,CSE,25,41,Fail,Short Attendance,Poor
+1112,Student_0112,IT,54,76,Pass,Eligible,Good
+1113,Student_0113,CE,41,45,Pass,Short Attendance,Average
+1114,Student_0114,IT,62,83,Pass,Eligible,Good
+1115,Student_0115,CSE,34,57,Fail,Short Attendance,Poor
+1116,Student_0116,CE,79,69,Pass,Short Attendance,Very Good
+1117,Student_0117,ECE,31,61,Fail,Short Attendance,Poor
+1118,Student_0118,IT,68,93,Pass,Eligible,Good
+1119,Student_0119,CSE,61,72,Pass,Short Attendance,Good
+1120,Student_0120,ECE,57,69,Pass,Short Attendance,Good
+1121,Student_0121,ECE,64,56,Pass,Short Attendance,Good
+1122,Student_0122,ME,54,82,Pass,Eligible,Good
+1123,Student_0123,CE,49,71,Pass,Short Attendance,Average
+1124,Student_0124,IT,49,81,Pass,Eligible,Average
+1125,Student_0125,CSE,97,90,Pass,Eligible,Excellent
+1126,Student_0126,ME,25,53,Fail,Short Attendance,Poor
+1127,Student_0127,CE,86,97,Pass,Eligible,Excellent
+1128,Student_0128,ME,99,49,Pass,Short Attendance,Excellent
+1129,Student_0129,CE,26,86,Fail,Eligible,Poor
+1130,Student_0130,CE,71,99,Pass,Eligible,Very Good
+1131,Student_0131,IT,33,90,Fail,Eligible,Poor
+1132,Student_0132,CE,92,75,Pass,Eligible,Excellent
+1133,Student_0133,ME,34,73,Fail,Short Attendance,Poor
+1134,Student_0134,CE,40,48,Pass,Short Attendance,Average
+1135,Student_0135,IT,54,81,Pass,Eligible,Good
+1136,Student_0136,IT,85,67,Pass,Short Attendance,Excellent
+1137,Student_0137,ME,21,50,Fail,Short Attendance,Poor
+1138,Student_0138,ECE,54,53,Pass,Short Attendance,Good
+1139,Student_0139,ECE,97,78,Pass,Eligible,Excellent
+1140,Student_0140,CE,39,94,Fail,Eligible,Poor
+1141,Student_0141,CSE,29,86,Fail,Eligible,Poor
+1142,Student_0142,CE,44,93,Pass,Eligible,Average
+1143,Student_0143,ME,85,58,Pass,Short Attendance,Excellent
+1144,Student_0144,ME,44,93,Pass,Eligible,Average
+1145,Student_0145,ME,73,54,Pass,Short Attendance,Very Good
+1146,Student_0146,ME,52,67,Pass,Short Attendance,Good
+1147,Student_0147,ME,55,63,Pass,Short Attendance,Good
+1148,Student_0148,IT,33,47,Fail,Short Attendance,Poor
+1149,Student_0149,ECE,84,82,Pass,Eligible,Very Good
+1150,Student_0150,ME,99,100,Pass,Eligible,Excellent
+1151,Student_0151,CSE,73,48,Pass,Short Attendance,Very Good
+1152,Student_0152,CSE,71,86,Pass,Eligible,Very Good
+1153,Student_0153,CSE,22,72,Fail,Short Attendance,Poor
+1154,Student_0154,CSE,60,72,Pass,Short Attendance,Good
+1155,Student_0155,IT,25,58,Fail,Short Attendance,Poor
+1156,Student_0156,CSE,44,42,Pass,Short Attendance,Average
+1157,Student_0157,ME,32,49,Fail,Short Attendance,Poor
+1158,Student_0158,CE,27,79,Fail,Eligible,Poor
+1159,Student_0159,CSE,40,86,Pass,Eligible,Average
+1160,Student_0160,IT,87,81,Pass,Eligible,Excellent
+1161,Student_0161,IT,44,40,Pass,Short Attendance,Average
+1162,Student_0162,CSE,98,68,Pass,Short Attendance,Excellent
+1163,Student_0163,CE,87,89,Pass,Eligible,Excellent
+1164,Student_0164,CSE,64,73,Pass,Short Attendance,Good
+1165,Student_0165,IT,79,90,Pass,Eligible,Very Good
+1166,Student_0166,ECE,31,52,Fail,Short Attendance,Poor
+1167,Student_0167,ME,51,93,Pass,Eligible,Good
+1168,Student_0168,IT,32,40,Fail,Short Attendance,Poor
+1169,Student_0169,CSE,50,73,Pass,Short Attendance,Good
+1170,Student_0170,ME,97,68,Pass,Short Attendance,Excellent
+1171,Student_0171,CSE,39,87,Fail,Eligible,Poor
+1172,Student_0172,CSE,37,86,Fail,Eligible,Poor
+1173,Student_0173,ECE,79,52,Pass,Short Attendance,Very Good
+1174,Student_0174,ME,82,87,Pass,Eligible,Very Good
+1175,Student_0175,ME,25,88,Fail,Eligible,Poor
+1176,Student_0176,ECE,51,92,Pass,Eligible,Good
+1177,Student_0177,IT,62,100,Pass,Eligible,Good
+1178,Student_0178,CSE,21,68,Fail,Short Attendance,Poor
+1179,Student_0179,CE,79,78,Pass,Eligible,Very Good
+1180,Student_0180,CSE,42,63,Pass,Short Attendance,Average
+1181,Student_0181,CSE,50,65,Pass,Short Attendance,Good
+1182,Student_0182,IT,24,56,Fail,Short Attendance,Poor
+1183,Student_0183,CSE,53,46,Pass,Short Attendance,Good
+1184,Student_0184,ECE,29,52,Fail,Short Attendance,Poor
+1185,Student_0185,ECE,21,44,Fail,Short Attendance,Poor
+1186,Student_0186,ME,30,65,Fail,Short Attendance,Poor
+1187,Student_0187,CE,69,88,Pass,Eligible,Good
+1188,Student_0188,CSE,50,42,Pass,Short Attendance,Good
+1189,Student_0189,CSE,75,46,Pass,Short Attendance,Very Good
+1190,Student_0190,IT,98,97,Pass,Eligible,Excellent
+1191,Student_0191,ECE,92,88,Pass,Eligible,Excellent
+1192,Student_0192,CE,28,78,Fail,Eligible,Poor
+1193,Student_0193,ME,40,92,Pass,Eligible,Average
+1194,Student_0194,ECE,92,40,Pass,Short Attendance,Excellent
+1195,Student_0195,ME,47,88,Pass,Eligible,Average
+1196,Student_0196,IT,81,56,Pass,Short Attendance,Very Good
+1197,Student_0197,IT,26,82,Fail,Eligible,Poor
+1198,Student_0198,CSE,99,64,Pass,Short Attendance,Excellent
+1199,Student_0199,CE,35,98,Fail,Eligible,Poor
+1200,Student_0200,ME,23,100,Fail,Eligible,Poor
+1201,Student_0201,ECE,23,42,Fail,Short Attendance,Poor
+1202,Student_0202,IT,59,54,Pass,Short Attendance,Good
+1203,Student_0203,CSE,36,68,Fail,Short Attendance,Poor
+1204,Student_0204,CSE,71,92,Pass,Eligible,Very Good
+1205,Student_0205,ME,71,82,Pass,Eligible,Very Good
+1206,Student_0206,IT,55,71,Pass,Short Attendance,Good
+1207,Student_0207,CE,57,65,Pass,Short Attendance,Good
+1208,Student_0208,IT,69,99,Pass,Eligible,Good
+1209,Student_0209,ME,82,55,Pass,Short Attendance,Very Good
+1210,Student_0210,ME,82,64,Pass,Short Attendance,Very Good
+1211,Student_0211,IT,81,93,Pass,Eligible,Very Good
+1212,Student_0212,ME,26,67,Fail,Short Attendance,Poor
+1213,Student_0213,IT,46,48,Pass,Short Attendance,Average
+1214,Student_0214,ECE,33,95,Fail,Eligible,Poor
+1215,Student_0215,IT,90,95,Pass,Eligible,Excellent
+1216,Student_0216,IT,24,40,Fail,Short Attendance,Poor
+1217,Student_0217,ME,74,68,Pass,Short Attendance,Very Good
+1218,Student_0218,ME,21,96,Fail,Eligible,Poor
+1219,Student_0219,CSE,81,61,Pass,Short Attendance,Very Good
+1220,Student_0220,CSE,40,55,Pass,Short Attendance,Average
+1221,Student_0221,ECE,98,80,Pass,Eligible,Excellent
+1222,Student_0222,CSE,40,90,Pass,Eligible,Average
+1223,Student_0223,IT,29,83,Fail,Eligible,Poor
+1224,Student_0224,ME,77,90,Pass,Eligible,Very Good
+1225,Student_0225,CSE,58,93,Pass,Eligible,Good
+1226,Student_0226,CSE,24,80,Fail,Eligible,Poor
+1227,Student_0227,ECE,84,46,Pass,Short Attendance,Very Good
+1228,Student_0228,ECE,32,53,Fail,Short Attendance,Poor
+1229,Student_0229,IT,72,68,Pass,Short Attendance,Very Good
+1230,Student_0230,ME,64,58,Pass,Short Attendance,Good
+1231,Student_0231,ECE,51,58,Pass,Short Attendance,Good
+1232,Student_0232,CSE,55,41,Pass,Short Attendance,Good
+1233,Student_0233,ME,100,80,Pass,Eligible,Excellent
+1234,Student_0234,ME,79,84,Pass,Eligible,Very Good
+1235,Student_0235,CSE,30,54,Fail,Short Attendance,Poor
+1236,Student_0236,ECE,82,42,Pass,Short Attendance,Very Good
+1237,Student_0237,CSE,40,50,Pass,Short Attendance,Average
+1238,Student_0238,ME,71,92,Pass,Eligible,Very Good
+1239,Student_0239,CE,74,85,Pass,Eligible,Very Good
+1240,Student_0240,CE,45,69,Pass,Short Attendance,Average
+1241,Student_0241,IT,87,96,Pass,Eligible,Excellent
+1242,Student_0242,CSE,53,79,Pass,Eligible,Good
+1243,Student_0243,CSE,71,57,Pass,Short Attendance,Very Good
+1244,Student_0244,IT,71,90,Pass,Eligible,Very Good
+1245,Student_0245,IT,48,87,Pass,Eligible,Average
+1246,Student_0246,IT,57,41,Pass,Short Attendance,Good
+1247,Student_0247,ME,61,71,Pass,Short Attendance,Good
+1248,Student_0248,CSE,40,47,Pass,Short Attendance,Average
+1249,Student_0249,ME,61,61,Pass,Short Attendance,Good
+1250,Student_0250,IT,32,45,Fail,Short Attendance,Poor
+1251,Student_0251,CSE,83,51,Pass,Short Attendance,Very Good
+1252,Student_0252,ME,36,86,Fail,Eligible,Poor
+1253,Student_0253,ME,28,96,Fail,Eligible,Poor
+1254,Student_0254,IT,60,79,Pass,Eligible,Good
+1255,Student_0255,CSE,20,75,Fail,Eligible,Poor
+1256,Student_0256,IT,21,54,Fail,Short Attendance,Poor
+1257,Student_0257,CSE,79,67,Pass,Short Attendance,Very Good
+1258,Student_0258,CE,67,91,Pass,Eligible,Good
+1259,Student_0259,ECE,48,96,Pass,Eligible,Average
+1260,Student_0260,ECE,29,88,Fail,Eligible,Poor
+1261,Student_0261,ECE,77,84,Pass,Eligible,Very Good
+1262,Student_0262,IT,79,57,Pass,Short Attendance,Very Good
+1263,Student_0263,CE,40,41,Pass,Short Attendance,Average
+1264,Student_0264,CSE,47,52,Pass,Short Attendance,Average
+1265,Student_0265,ME,94,84,Pass,Eligible,Excellent
+1266,Student_0266,CSE,53,93,Pass,Eligible,Good
+1267,Student_0267,ME,27,54,Fail,Short Attendance,Poor
+1268,Student_0268,CSE,78,59,Pass,Short Attendance,Very Good
+1269,Student_0269,CE,91,68,Pass,Short Attendance,Excellent
+1270,Student_0270,ME,68,98,Pass,Eligible,Good
+1271,Student_0271,IT,98,81,Pass,Eligible,Excellent
+1272,Student_0272,CSE,36,68,Fail,Short Attendance,Poor
+1273,Student_0273,CSE,79,42,Pass,Short Attendance,Very Good
+1274,Student_0274,ME,64,58,Pass,Short Attendance,Good
+1275,Student_0275,IT,88,42,Pass,Short Attendance,Excellent
+1276,Student_0276,IT,51,93,Pass,Eligible,Good
+1277,Student_0277,CE,63,53,Pass,Short Attendance,Good
+1278,Student_0278,IT,84,79,Pass,Eligible,Very Good
+1279,Student_0279,IT,27,98,Fail,Eligible,Poor
+1280,Student_0280,IT,96,94,Pass,Eligible,Excellent
+1281,Student_0281,ECE,91,43,Pass,Short Attendance,Excellent
+1282,Student_0282,CE,62,98,Pass,Eligible,Good
+1283,Student_0283,CSE,20,99,Fail,Eligible,Poor
+1284,Student_0284,ME,70,91,Pass,Eligible,Very Good
+1285,Student_0285,CSE,43,50,Pass,Short Attendance,Average
+1286,Student_0286,CE,43,97,Pass,Eligible,Average
+1287,Student_0287,ME,36,70,Fail,Short Attendance,Poor
+1288,Student_0288,CE,24,82,Fail,Eligible,Poor
+1289,Student_0289,IT,39,71,Fail,Short Attendance,Poor
+1290,Student_0290,ME,40,66,Pass,Short Attendance,Average
+1291,Student_0291,IT,77,69,Pass,Short Attendance,Very Good
+1292,Student_0292,CSE,50,82,Pass,Eligible,Good
+1293,Student_0293,CSE,30,41,Fail,Short Attendance,Poor
+1294,Student_0294,ME,71,88,Pass,Eligible,Very Good
+1295,Student_0295,ME,34,48,Fail,Short Attendance,Poor
+1296,Student_0296,CE,26,67,Fail,Short Attendance,Poor
+1297,Student_0297,CE,47,70,Pass,Short Attendance,Average
+1298,Student_0298,IT,70,99,Pass,Eligible,Very Good
+1299,Student_0299,ME,77,73,Pass,Short Attendance,Very Good
+1300,Student_0300,CSE,24,100,Fail,Eligible,Poor
+1301,Student_0301,CE,24,95,Fail,Eligible,Poor
+1302,Student_0302,CE,27,54,Fail,Short Attendance,Poor
+1303,Student_0303,CSE,83,87,Pass,Eligible,Very Good
+1304,Student_0304,CE,29,64,Fail,Short Attendance,Poor
+1305,Student_0305,IT,57,75,Pass,Eligible,Good
+1306,Student_0306,ME,100,47,Pass,Short Attendance,Excellent
+1307,Student_0307,CSE,27,48,Fail,Short Attendance,Poor
+1308,Student_0308,ME,44,97,Pass,Eligible,Average
+1309,Student_0309,CE,92,97,Pass,Eligible,Excellent
+1310,Student_0310,CE,85,76,Pass,Eligible,Excellent
+1311,Student_0311,CSE,98,87,Pass,Eligible,Excellent
+1312,Student_0312,IT,69,84,Pass,Eligible,Good
+1313,Student_0313,ECE,86,78,Pass,Eligible,Excellent
+1314,Student_0314,CSE,68,71,Pass,Short Attendance,Good
+1315,Student_0315,ECE,55,97,Pass,Eligible,Good
+1316,Student_0316,ECE,87,91,Pass,Eligible,Excellent
+1317,Student_0317,IT,97,56,Pass,Short Attendance,Excellent
+1318,Student_0318,ECE,60,74,Pass,Short Attendance,Good
+1319,Student_0319,ECE,81,76,Pass,Eligible,Very Good
+1320,Student_0320,IT,29,58,Fail,Short Attendance,Poor
+1321,Student_0321,ECE,40,83,Pass,Eligible,Average
+1322,Student_0322,ECE,55,68,Pass,Short Attendance,Good
+1323,Student_0323,ECE,31,98,Fail,Eligible,Poor
+1324,Student_0324,CSE,21,46,Fail,Short Attendance,Poor
+1325,Student_0325,CSE,32,67,Fail,Short Attendance,Poor
+1326,Student_0326,CSE,72,48,Pass,Short Attendance,Very Good
+1327,Student_0327,IT,51,67,Pass,Short Attendance,Good
+1328,Student_0328,CE,35,45,Fail,Short Attendance,Poor
+1329,Student_0329,ECE,51,68,Pass,Short Attendance,Good
+1330,Student_0330,ECE,51,97,Pass,Eligible,Good
+1331,Student_0331,IT,30,56,Fail,Short Attendance,Poor
+1332,Student_0332,ECE,29,55,Fail,Short Attendance,Poor
+1333,Student_0333,CSE,34,62,Fail,Short Attendance,Poor
+1334,Student_0334,CE,36,70,Fail,Short Attendance,Poor
+1335,Student_0335,ME,59,42,Pass,Short Attendance,Good
+1336,Student_0336,ECE,37,60,Fail,Short Attendance,Poor
+1337,Student_0337,CSE,74,65,Pass,Short Attendance,Very Good
+1338,Student_0338,ME,92,75,Pass,Eligible,Excellent
+1339,Student_0339,CE,44,81,Pass,Eligible,Average
+1340,Student_0340,ME,78,76,Pass,Eligible,Very Good
+1341,Student_0341,CSE,97,92,Pass,Eligible,Excellent
+1342,Student_0342,ME,41,61,Pass,Short Attendance,Average
+1343,Student_0343,IT,49,81,Pass,Eligible,Average
+1344,Student_0344,ME,63,51,Pass,Short Attendance,Good
+1345,Student_0345,ECE,51,81,Pass,Eligible,Good
+1346,Student_0346,ECE,70,100,Pass,Eligible,Very Good
+1347,Student_0347,IT,65,52,Pass,Short Attendance,Good
+1348,Student_0348,CSE,40,50,Pass,Short Attendance,Average
+1349,Student_0349,ECE,51,93,Pass,Eligible,Good
+1350,Student_0350,CE,58,55,Pass,Short Attendance,Good
+1351,Student_0351,ECE,31,47,Fail,Short Attendance,Poor
+1352,Student_0352,ECE,66,79,Pass,Eligible,Good
+1353,Student_0353,CSE,37,98,Fail,Eligible,Poor
+1354,Student_0354,ME,40,96,Pass,Eligible,Average
+1355,Student_0355,ECE,32,79,Fail,Eligible,Poor
+1356,Student_0356,IT,40,84,Pass,Eligible,Average
+1357,Student_0357,ME,27,98,Fail,Eligible,Poor
+1358,Student_0358,CE,65,41,Pass,Short Attendance,Good
+1359,Student_0359,CSE,26,69,Fail,Short Attendance,Poor
+1360,Student_0360,CE,42,69,Pass,Short Attendance,Average
+1361,Student_0361,ME,94,51,Pass,Short Attendance,Excellent
+1362,Student_0362,ME,41,49,Pass,Short Attendance,Average
+1363,Student_0363,ME,41,83,Pass,Eligible,Average
+1364,Student_0364,CE,48,50,Pass,Short Attendance,Average
+1365,Student_0365,ME,32,54,Fail,Short Attendance,Poor
+1366,Student_0366,CE,21,55,Fail,Short Attendance,Poor
+1367,Student_0367,ME,48,56,Pass,Short Attendance,Average
+1368,Student_0368,IT,98,65,Pass,Short Attendance,Excellent
+1369,Student_0369,ME,71,41,Pass,Short Attendance,Very Good
+1370,Student_0370,CE,46,89,Pass,Eligible,Average
+1371,Student_0371,ECE,69,51,Pass,Short Attendance,Good
+1372,Student_0372,ME,98,90,Pass,Eligible,Excellent
+1373,Student_0373,ECE,42,65,Pass,Short Attendance,Average
+1374,Student_0374,IT,63,62,Pass,Short Attendance,Good
+1375,Student_0375,CSE,96,57,Pass,Short Attendance,Excellent
+1376,Student_0376,IT,41,71,Pass,Short Attendance,Average
+1377,Student_0377,ME,62,88,Pass,Eligible,Good
+1378,Student_0378,ECE,56,77,Pass,Eligible,Good
+1379,Student_0379,ECE,80,96,Pass,Eligible,Very Good
+1380,Student_0380,CE,75,86,Pass,Eligible,Very Good
+1381,Student_0381,ECE,22,42,Fail,Short Attendance,Poor
+1382,Student_0382,CE,82,77,Pass,Eligible,Very Good
+1383,Student_0383,CSE,38,42,Fail,Short Attendance,Poor
+1384,Student_0384,ME,42,69,Pass,Short Attendance,Average
+1385,Student_0385,CE,48,100,Pass,Eligible,Average
+1386,Student_0386,CSE,49,40,Pass,Short Attendance,Average
+1387,Student_0387,ECE,58,69,Pass,Short Attendance,Good
+1388,Student_0388,ECE,44,84,Pass,Eligible,Average
+1389,Student_0389,CSE,27,71,Fail,Short Attendance,Poor
+1390,Student_0390,ECE,77,67,Pass,Short Attendance,Very Good
+1391,Student_0391,CSE,35,60,Fail,Short Attendance,Poor
+1392,Student_0392,CE,91,97,Pass,Eligible,Excellent
+1393,Student_0393,CE,20,85,Fail,Eligible,Poor
+1394,Student_0394,CSE,24,52,Fail,Short Attendance,Poor
+1395,Student_0395,CE,22,66,Fail,Short Attendance,Poor
+1396,Student_0396,CE,84,75,Pass,Eligible,Very Good
+1397,Student_0397,CE,23,46,Fail,Short Attendance,Poor
+1398,Student_0398,IT,83,61,Pass,Short Attendance,Very Good
+1399,Student_0399,ME,29,49,Fail,Short Attendance,Poor
+1400,Student_0400,ECE,40,78,Pass,Eligible,Average
+1401,Student_0401,IT,65,92,Pass,Eligible,Good
+1402,Student_0402,CE,46,54,Pass,Short Attendance,Average
+1403,Student_0403,CSE,85,54,Pass,Short Attendance,Excellent
+1404,Student_0404,CE,60,43,Pass,Short Attendance,Good
+1405,Student_0405,ME,32,71,Fail,Short Attendance,Poor
+1406,Student_0406,CE,28,62,Fail,Short Attendance,Poor
+1407,Student_0407,CSE,55,94,Pass,Eligible,Good
+1408,Student_0408,ME,77,45,Pass,Short Attendance,Very Good
+1409,Student_0409,CE,73,63,Pass,Short Attendance,Very Good
+1410,Student_0410,ME,31,59,Fail,Short Attendance,Poor
+1411,Student_0411,ECE,100,97,Pass,Eligible,Excellent
+1412,Student_0412,ECE,97,76,Pass,Eligible,Excellent
+1413,Student_0413,CE,33,59,Fail,Short Attendance,Poor
+1414,Student_0414,ME,53,51,Pass,Short Attendance,Good
+1415,Student_0415,CSE,72,72,Pass,Short Attendance,Very Good
+1416,Student_0416,CE,39,67,Fail,Short Attendance,Poor
+1417,Student_0417,ECE,94,47,Pass,Short Attendance,Excellent
+1418,Student_0418,ECE,35,40,Fail,Short Attendance,Poor
+1419,Student_0419,CE,89,76,Pass,Eligible,Excellent
+1420,Student_0420,ME,75,61,Pass,Short Attendance,Very Good
+1421,Student_0421,ECE,77,45,Pass,Short Attendance,Very Good
+1422,Student_0422,ME,23,100,Fail,Eligible,Poor
+1423,Student_0423,ECE,23,60,Fail,Short Attendance,Poor
+1424,Student_0424,ECE,39,71,Fail,Short Attendance,Poor
+1425,Student_0425,IT,29,74,Fail,Short Attendance,Poor
+1426,Student_0426,ECE,43,54,Pass,Short Attendance,Average
+1427,Student_0427,CSE,45,44,Pass,Short Attendance,Average
+1428,Student_0428,CE,56,99,Pass,Eligible,Good
+1429,Student_0429,CE,73,95,Pass,Eligible,Very Good
+1430,Student_0430,ME,40,85,Pass,Eligible,Average
+1431,Student_0431,ECE,93,89,Pass,Eligible,Excellent
+1432,Student_0432,CSE,57,87,Pass,Eligible,Good
+1433,Student_0433,ME,65,45,Pass,Short Attendance,Good
+1434,Student_0434,IT,23,64,Fail,Short Attendance,Poor
+1435,Student_0435,ME,79,95,Pass,Eligible,Very Good
+1436,Student_0436,ME,76,85,Pass,Eligible,Very Good
+1437,Student_0437,ECE,64,98,Pass,Eligible,Good
+1438,Student_0438,IT,39,95,Fail,Eligible,Poor
+1439,Student_0439,ME,36,79,Fail,Eligible,Poor
+1440,Student_0440,CSE,90,68,Pass,Short Attendance,Excellent
+1441,Student_0441,CSE,23,46,Fail,Short Attendance,Poor
+1442,Student_0442,CE,33,79,Fail,Eligible,Poor
+1443,Student_0443,IT,22,52,Fail,Short Attendance,Poor
+1444,Student_0444,IT,99,77,Pass,Eligible,Excellent
+1445,Student_0445,CE,77,57,Pass,Short Attendance,Very Good
+1446,Student_0446,ME,74,41,Pass,Short Attendance,Very Good
+1447,Student_0447,IT,23,47,Fail,Short Attendance,Poor
+1448,Student_0448,CSE,43,50,Pass,Short Attendance,Average
+1449,Student_0449,CSE,53,72,Pass,Short Attendance,Good
+1450,Student_0450,ECE,49,93,Pass,Eligible,Average
+1451,Student_0451,IT,38,100,Fail,Eligible,Poor
+1452,Student_0452,ME,50,77,Pass,Eligible,Good
+1453,Student_0453,CE,79,87,Pass,Eligible,Very Good
+1454,Student_0454,CE,79,66,Pass,Short Attendance,Very Good
+1455,Student_0455,ME,38,59,Fail,Short Attendance,Poor
+1456,Student_0456,ECE,68,51,Pass,Short Attendance,Good
+1457,Student_0457,CE,82,82,Pass,Eligible,Very Good
+1458,Student_0458,IT,41,100,Pass,Eligible,Average
+1459,Student_0459,ECE,43,70,Pass,Short Attendance,Average
+1460,Student_0460,IT,95,66,Pass,Short Attendance,Excellent
+1461,Student_0461,CSE,49,71,Pass,Short Attendance,Average
+1462,Student_0462,ECE,77,100,Pass,Eligible,Very Good
+1463,Student_0463,CE,50,49,Pass,Short Attendance,Good
+1464,Student_0464,ECE,83,42,Pass,Short Attendance,Very Good
+1465,Student_0465,ECE,38,84,Fail,Eligible,Poor
+1466,Student_0466,ECE,67,66,Pass,Short Attendance,Good
+1467,Student_0467,ECE,64,74,Pass,Short Attendance,Good
+1468,Student_0468,IT,74,70,Pass,Short Attendance,Very Good
+1469,Student_0469,CSE,74,54,Pass,Short Attendance,Very Good
+1470,Student_0470,ME,37,55,Fail,Short Attendance,Poor
+1471,Student_0471,ECE,82,100,Pass,Eligible,Very Good
+1472,Student_0472,CE,66,52,Pass,Short Attendance,Good
+1473,Student_0473,ECE,94,88,Pass,Eligible,Excellent
+1474,Student_0474,CE,76,74,Pass,Short Attendance,Very Good
+1475,Student_0475,IT,64,91,Pass,Eligible,Good
+1476,Student_0476,CE,52,50,Pass,Short Attendance,Good
+1477,Student_0477,ME,36,98,Fail,Eligible,Poor
+1478,Student_0478,CSE,89,60,Pass,Short Attendance,Excellent
+1479,Student_0479,CE,23,90,Fail,Eligible,Poor
+1480,Student_0480,CE,39,93,Fail,Eligible,Poor
+1481,Student_0481,CSE,66,50,Pass,Short Attendance,Good
+1482,Student_0482,ME,34,69,Fail,Short Attendance,Poor
+1483,Student_0483,ECE,89,99,Pass,Eligible,Excellent
+1484,Student_0484,CE,66,87,Pass,Eligible,Good
+1485,Student_0485,CSE,97,92,Pass,Eligible,Excellent
+1486,Student_0486,IT,94,74,Pass,Short Attendance,Excellent
+1487,Student_0487,CSE,28,61,Fail,Short Attendance,Poor
+1488,Student_0488,IT,35,77,Fail,Eligible,Poor
+1489,Student_0489,ME,88,70,Pass,Short Attendance,Excellent
+1490,Student_0490,ECE,80,53,Pass,Short Attendance,Very Good
+1491,Student_0491,CSE,29,63,Fail,Short Attendance,Poor
+1492,Student_0492,CE,69,89,Pass,Eligible,Good
+1493,Student_0493,ME,22,88,Fail,Eligible,Poor
+1494,Student_0494,CSE,96,71,Pass,Short Attendance,Excellent
+1495,Student_0495,CE,89,75,Pass,Eligible,Excellent
+1496,Student_0496,CSE,100,71,Pass,Short Attendance,Excellent
+1497,Student_0497,IT,70,94,Pass,Eligible,Very Good
+1498,Student_0498,CSE,38,54,Fail,Short Attendance,Poor
+1499,Student_0499,CSE,61,82,Pass,Eligible,Good
+1500,Student_0500,CSE,54,97,Pass,Eligible,Good
+1501,Student_0501,ME,65,74,Pass,Short Attendance,Good
+1502,Student_0502,CSE,45,42,Pass,Short Attendance,Average
+1503,Student_0503,CE,88,55,Pass,Short Attendance,Excellent
+1504,Student_0504,IT,83,44,Pass,Short Attendance,Very Good
+1505,Student_0505,IT,56,60,Pass,Short Attendance,Good
+1506,Student_0506,CSE,68,100,Pass,Eligible,Good
+1507,Student_0507,ME,40,49,Pass,Short Attendance,Average
+1508,Student_0508,ME,93,58,Pass,Short Attendance,Excellent
+1509,Student_0509,CE,83,64,Pass,Short Attendance,Very Good
+1510,Student_0510,CSE,24,43,Fail,Short Attendance,Poor
+1511,Student_0511,IT,89,100,Pass,Eligible,Excellent
+1512,Student_0512,ME,23,68,Fail,Short Attendance,Poor
+1513,Student_0513,CSE,58,58,Pass,Short Attendance,Good
+1514,Student_0514,ME,54,82,Pass,Eligible,Good
+1515,Student_0515,ME,20,41,Fail,Short Attendance,Poor
+1516,Student_0516,IT,43,49,Pass,Short Attendance,Average
+1517,Student_0517,ECE,76,100,Pass,Eligible,Very Good
+1518,Student_0518,CE,89,82,Pass,Eligible,Excellent
+1519,Student_0519,CE,60,64,Pass,Short Attendance,Good
+1520,Student_0520,IT,73,59,Pass,Short Attendance,Very Good
+1521,Student_0521,ME,65,87,Pass,Eligible,Good
+1522,Student_0522,CSE,79,58,Pass,Short Attendance,Very Good
+1523,Student_0523,ME,79,62,Pass,Short Attendance,Very Good
+1524,Student_0524,IT,76,63,Pass,Short Attendance,Very Good
+1525,Student_0525,CE,50,50,Pass,Short Attendance,Good
+1526,Student_0526,ME,43,85,Pass,Eligible,Average
+1527,Student_0527,CE,55,73,Pass,Short Attendance,Good
+1528,Student_0528,CSE,49,94,Pass,Eligible,Average
+1529,Student_0529,CE,43,67,Pass,Short Attendance,Average
+1530,Student_0530,CE,49,44,Pass,Short Attendance,Average
+1531,Student_0531,ECE,26,98,Fail,Eligible,Poor
+1532,Student_0532,ECE,54,44,Pass,Short Attendance,Good
+1533,Student_0533,ECE,74,90,Pass,Eligible,Very Good
+1534,Student_0534,CE,33,60,Fail,Short Attendance,Poor
+1535,Student_0535,IT,29,51,Fail,Short Attendance,Poor
+1536,Student_0536,CE,99,89,Pass,Eligible,Excellent
+1537,Student_0537,IT,35,43,Fail,Short Attendance,Poor
+1538,Student_0538,IT,73,93,Pass,Eligible,Very Good
+1539,Student_0539,ECE,96,88,Pass,Eligible,Excellent
+1540,Student_0540,ME,89,81,Pass,Eligible,Excellent
+1541,Student_0541,CSE,63,59,Pass,Short Attendance,Good
+1542,Student_0542,ECE,92,77,Pass,Eligible,Excellent
+1543,Student_0543,ECE,64,64,Pass,Short Attendance,Good
+1544,Student_0544,ME,75,53,Pass,Short Attendance,Very Good
+1545,Student_0545,CSE,76,50,Pass,Short Attendance,Very Good
+1546,Student_0546,CE,40,71,Pass,Short Attendance,Average
+1547,Student_0547,CE,87,50,Pass,Short Attendance,Excellent
+1548,Student_0548,ECE,69,100,Pass,Eligible,Good
+1549,Student_0549,CSE,52,57,Pass,Short Attendance,Good
+1550,Student_0550,ECE,26,66,Fail,Short Attendance,Poor
+1551,Student_0551,IT,89,94,Pass,Eligible,Excellent
+1552,Student_0552,ECE,34,93,Fail,Eligible,Poor
+1553,Student_0553,ECE,51,57,Pass,Short Attendance,Good
+1554,Student_0554,CE,94,95,Pass,Eligible,Excellent
+1555,Student_0555,CE,39,62,Fail,Short Attendance,Poor
+1556,Student_0556,CE,34,50,Fail,Short Attendance,Poor
+1557,Student_0557,IT,67,60,Pass,Short Attendance,Good
+1558,Student_0558,CE,90,83,Pass,Eligible,Excellent
+1559,Student_0559,CSE,40,44,Pass,Short Attendance,Average
+1560,Student_0560,ME,61,62,Pass,Short Attendance,Good
+1561,Student_0561,CSE,45,80,Pass,Eligible,Average
+1562,Student_0562,CSE,33,98,Fail,Eligible,Poor
+1563,Student_0563,CE,76,64,Pass,Short Attendance,Very Good
+1564,Student_0564,ME,56,80,Pass,Eligible,Good
+1565,Student_0565,ME,77,93,Pass,Eligible,Very Good
+1566,Student_0566,ME,40,49,Pass,Short Attendance,Average
+1567,Student_0567,IT,88,61,Pass,Short Attendance,Excellent
+1568,Student_0568,CE,22,58,Fail,Short Attendance,Poor
+1569,Student_0569,ME,56,40,Pass,Short Attendance,Good
+1570,Student_0570,IT,68,46,Pass,Short Attendance,Good
+1571,Student_0571,ECE,38,43,Fail,Short Attendance,Poor
+1572,Student_0572,ECE,31,40,Fail,Short Attendance,Poor
+1573,Student_0573,IT,80,54,Pass,Short Attendance,Very Good
+1574,Student_0574,IT,60,79,Pass,Eligible,Good
+1575,Student_0575,CE,52,51,Pass,Short Attendance,Good
+1576,Student_0576,CE,69,61,Pass,Short Attendance,Good
+1577,Student_0577,ECE,87,61,Pass,Short Attendance,Excellent
+1578,Student_0578,ME,90,89,Pass,Eligible,Excellent
+1579,Student_0579,ECE,52,86,Pass,Eligible,Good
+1580,Student_0580,ME,100,56,Pass,Short Attendance,Excellent
+1581,Student_0581,ME,43,68,Pass,Short Attendance,Average
+1582,Student_0582,CE,80,85,Pass,Eligible,Very Good
+1583,Student_0583,CSE,80,53,Pass,Short Attendance,Very Good
+1584,Student_0584,CSE,47,89,Pass,Eligible,Average
+1585,Student_0585,IT,77,59,Pass,Short Attendance,Very Good
+1586,Student_0586,CE,62,89,Pass,Eligible,Good
+1587,Student_0587,ME,60,87,Pass,Eligible,Good
+1588,Student_0588,CSE,58,72,Pass,Short Attendance,Good
+1589,Student_0589,ME,68,94,Pass,Eligible,Good
+1590,Student_0590,CSE,36,98,Fail,Eligible,Poor
+1591,Student_0591,CSE,89,82,Pass,Eligible,Excellent
+1592,Student_0592,CSE,89,54,Pass,Short Attendance,Excellent
+1593,Student_0593,CE,84,51,Pass,Short Attendance,Very Good
+1594,Student_0594,ECE,93,79,Pass,Eligible,Excellent
+1595,Student_0595,ME,24,93,Fail,Eligible,Poor
+1596,Student_0596,CE,21,59,Fail,Short Attendance,Poor
+1597,Student_0597,CE,41,69,Pass,Short Attendance,Average
+1598,Student_0598,CE,76,77,Pass,Eligible,Very Good
+1599,Student_0599,CE,85,42,Pass,Short Attendance,Excellent
+1600,Student_0600,CE,93,67,Pass,Short Attendance,Excellent
+1601,Student_0601,IT,35,95,Fail,Eligible,Poor
+1602,Student_0602,ME,70,65,Pass,Short Attendance,Very Good
+1603,Student_0603,CE,58,69,Pass,Short Attendance,Good
+1604,Student_0604,ME,95,52,Pass,Short Attendance,Excellent
+1605,Student_0605,IT,59,52,Pass,Short Attendance,Good
+1606,Student_0606,IT,57,41,Pass,Short Attendance,Good
+1607,Student_0607,ME,79,76,Pass,Eligible,Very Good
+1608,Student_0608,CSE,78,88,Pass,Eligible,Very Good
+1609,Student_0609,ECE,29,77,Fail,Eligible,Poor
+1610,Student_0610,CSE,83,41,Pass,Short Attendance,Very Good
+1611,Student_0611,CSE,82,75,Pass,Eligible,Very Good
+1612,Student_0612,CSE,68,93,Pass,Eligible,Good
+1613,Student_0613,CE,83,65,Pass,Short Attendance,Very Good
+1614,Student_0614,IT,51,50,Pass,Short Attendance,Good
+1615,Student_0615,CSE,26,47,Fail,Short Attendance,Poor
+1616,Student_0616,IT,40,83,Pass,Eligible,Average
+1617,Student_0617,ME,39,79,Fail,Eligible,Poor
+1618,Student_0618,ECE,45,82,Pass,Eligible,Average
+1619,Student_0619,ME,87,61,Pass,Short Attendance,Excellent
+1620,Student_0620,ME,34,59,Fail,Short Attendance,Poor
+1621,Student_0621,CE,98,47,Pass,Short Attendance,Excellent
+1622,Student_0622,ECE,33,68,Fail,Short Attendance,Poor
+1623,Student_0623,ME,46,79,Pass,Eligible,Average
+1624,Student_0624,ME,59,65,Pass,Short Attendance,Good
+1625,Student_0625,ECE,77,69,Pass,Short Attendance,Very Good
+1626,Student_0626,ECE,47,56,Pass,Short Attendance,Average
+1627,Student_0627,ME,45,59,Pass,Short Attendance,Average
+1628,Student_0628,ECE,82,91,Pass,Eligible,Very Good
+1629,Student_0629,ME,85,94,Pass,Eligible,Excellent
+1630,Student_0630,ME,44,55,Pass,Short Attendance,Average
+1631,Student_0631,CE,22,85,Fail,Eligible,Poor
+1632,Student_0632,CSE,91,82,Pass,Eligible,Excellent
+1633,Student_0633,ME,63,46,Pass,Short Attendance,Good
+1634,Student_0634,IT,61,55,Pass,Short Attendance,Good
+1635,Student_0635,CSE,25,84,Fail,Eligible,Poor
+1636,Student_0636,CSE,58,98,Pass,Eligible,Good
+1637,Student_0637,CSE,71,86,Pass,Eligible,Very Good
+1638,Student_0638,CE,42,95,Pass,Eligible,Average
+1639,Student_0639,ME,69,87,Pass,Eligible,Good
+1640,Student_0640,CE,62,66,Pass,Short Attendance,Good
+1641,Student_0641,ME,38,92,Fail,Eligible,Poor
+1642,Student_0642,CE,88,62,Pass,Short Attendance,Excellent
+1643,Student_0643,CE,70,63,Pass,Short Attendance,Very Good
+1644,Student_0644,IT,30,48,Fail,Short Attendance,Poor
+1645,Student_0645,CE,31,74,Fail,Short Attendance,Poor
+1646,Student_0646,ECE,93,90,Pass,Eligible,Excellent
+1647,Student_0647,IT,27,59,Fail,Short Attendance,Poor
+1648,Student_0648,CE,43,76,Pass,Eligible,Average
+1649,Student_0649,CSE,60,81,Pass,Eligible,Good
+1650,Student_0650,ECE,55,56,Pass,Short Attendance,Good
+1651,Student_0651,ECE,91,86,Pass,Eligible,Excellent
+1652,Student_0652,ECE,74,70,Pass,Short Attendance,Very Good
+1653,Student_0653,IT,28,94,Fail,Eligible,Poor
+1654,Student_0654,CE,66,96,Pass,Eligible,Good
+1655,Student_0655,CE,34,47,Fail,Short Attendance,Poor
+1656,Student_0656,CSE,67,54,Pass,Short Attendance,Good
+1657,Student_0657,CSE,61,70,Pass,Short Attendance,Good
+1658,Student_0658,ECE,79,92,Pass,Eligible,Very Good
+1659,Student_0659,CSE,89,69,Pass,Short Attendance,Excellent
+1660,Student_0660,IT,31,85,Fail,Eligible,Poor
+1661,Student_0661,CE,21,59,Fail,Short Attendance,Poor
+1662,Student_0662,ECE,26,99,Fail,Eligible,Poor
+1663,Student_0663,CSE,99,78,Pass,Eligible,Excellent
+1664,Student_0664,IT,22,92,Fail,Eligible,Poor
+1665,Student_0665,IT,22,94,Fail,Eligible,Poor
+1666,Student_0666,CSE,46,51,Pass,Short Attendance,Average
+1667,Student_0667,CE,59,88,Pass,Eligible,Good
+1668,Student_0668,CSE,52,56,Pass,Short Attendance,Good
+1669,Student_0669,ECE,20,81,Fail,Eligible,Poor
+1670,Student_0670,CSE,27,69,Fail,Short Attendance,Poor
+1671,Student_0671,IT,51,68,Pass,Short Attendance,Good
+1672,Student_0672,CSE,67,58,Pass,Short Attendance,Good
+1673,Student_0673,CE,23,85,Fail,Eligible,Poor
+1674,Student_0674,ME,89,50,Pass,Short Attendance,Excellent
+1675,Student_0675,CSE,38,73,Fail,Short Attendance,Poor
+1676,Student_0676,CE,51,89,Pass,Eligible,Good
+1677,Student_0677,CE,28,46,Fail,Short Attendance,Poor
+1678,Student_0678,IT,31,83,Fail,Eligible,Poor
+1679,Student_0679,CE,30,97,Fail,Eligible,Poor
+1680,Student_0680,CE,65,73,Pass,Short Attendance,Good
+1681,Student_0681,CE,35,98,Fail,Eligible,Poor
+1682,Student_0682,CE,20,59,Fail,Short Attendance,Poor
+1683,Student_0683,ECE,82,89,Pass,Eligible,Very Good
+1684,Student_0684,ECE,40,77,Pass,Eligible,Average
+1685,Student_0685,IT,49,63,Pass,Short Attendance,Average
+1686,Student_0686,CSE,32,49,Fail,Short Attendance,Poor
+1687,Student_0687,CE,53,71,Pass,Short Attendance,Good
+1688,Student_0688,CSE,23,91,Fail,Eligible,Poor
+1689,Student_0689,CSE,47,54,Pass,Short Attendance,Average
+1690,Student_0690,IT,78,76,Pass,Eligible,Very Good
+1691,Student_0691,CE,46,59,Pass,Short Attendance,Average
+1692,Student_0692,CE,88,42,Pass,Short Attendance,Excellent
+1693,Student_0693,ME,44,76,Pass,Eligible,Average
+1694,Student_0694,CSE,22,96,Fail,Eligible,Poor
+1695,Student_0695,CSE,87,79,Pass,Eligible,Excellent
+1696,Student_0696,ECE,44,47,Pass,Short Attendance,Average
+1697,Student_0697,ME,39,79,Fail,Eligible,Poor
+1698,Student_0698,ECE,53,83,Pass,Eligible,Good
+1699,Student_0699,ECE,45,95,Pass,Eligible,Average
+1700,Student_0700,ECE,24,62,Fail,Short Attendance,Poor
+1701,Student_0701,IT,80,79,Pass,Eligible,Very Good
+1702,Student_0702,IT,28,50,Fail,Short Attendance,Poor
+1703,Student_0703,ECE,69,85,Pass,Eligible,Good
+1704,Student_0704,ME,25,47,Fail,Short Attendance,Poor
+1705,Student_0705,CSE,79,68,Pass,Short Attendance,Very Good
+1706,Student_0706,ME,63,69,Pass,Short Attendance,Good
+1707,Student_0707,CE,30,95,Fail,Eligible,Poor
+1708,Student_0708,IT,85,99,Pass,Eligible,Excellent
+1709,Student_0709,CSE,66,49,Pass,Short Attendance,Good
+1710,Student_0710,CSE,92,78,Pass,Eligible,Excellent
+1711,Student_0711,CE,22,67,Fail,Short Attendance,Poor
+1712,Student_0712,CE,95,88,Pass,Eligible,Excellent
+1713,Student_0713,ECE,49,75,Pass,Eligible,Average
+1714,Student_0714,IT,40,100,Pass,Eligible,Average
+1715,Student_0715,IT,47,52,Pass,Short Attendance,Average
+1716,Student_0716,ME,81,71,Pass,Short Attendance,Very Good
+1717,Student_0717,ECE,52,75,Pass,Eligible,Good
+1718,Student_0718,ECE,54,76,Pass,Eligible,Good
+1719,Student_0719,ECE,71,65,Pass,Short Attendance,Very Good
+1720,Student_0720,ECE,53,61,Pass,Short Attendance,Good
+1721,Student_0721,IT,60,43,Pass,Short Attendance,Good
+1722,Student_0722,IT,70,70,Pass,Short Attendance,Very Good
+1723,Student_0723,ECE,66,57,Pass,Short Attendance,Good
+1724,Student_0724,ME,77,77,Pass,Eligible,Very Good
+1725,Student_0725,CSE,94,63,Pass,Short Attendance,Excellent
+1726,Student_0726,CSE,76,95,Pass,Eligible,Very Good
+1727,Student_0727,ME,42,62,Pass,Short Attendance,Average
+1728,Student_0728,ECE,67,61,Pass,Short Attendance,Good
+1729,Student_0729,IT,41,41,Pass,Short Attendance,Average
+1730,Student_0730,CSE,36,70,Fail,Short Attendance,Poor
+1731,Student_0731,CE,88,94,Pass,Eligible,Excellent
+1732,Student_0732,CE,30,50,Fail,Short Attendance,Poor
+1733,Student_0733,ME,34,67,Fail,Short Attendance,Poor
+1734,Student_0734,ECE,54,85,Pass,Eligible,Good
+1735,Student_0735,CSE,52,71,Pass,Short Attendance,Good
+1736,Student_0736,ECE,35,44,Fail,Short Attendance,Poor
+1737,Student_0737,CSE,53,77,Pass,Eligible,Good
+1738,Student_0738,ME,85,49,Pass,Short Attendance,Excellent
+1739,Student_0739,ME,59,79,Pass,Eligible,Good
+1740,Student_0740,CE,47,85,Pass,Eligible,Average
+1741,Student_0741,ECE,66,63,Pass,Short Attendance,Good
+1742,Student_0742,CE,58,74,Pass,Short Attendance,Good
+1743,Student_0743,ECE,89,83,Pass,Eligible,Excellent
+1744,Student_0744,CE,92,87,Pass,Eligible,Excellent
+1745,Student_0745,IT,39,99,Fail,Eligible,Poor
+1746,Student_0746,IT,20,62,Fail,Short Attendance,Poor
+1747,Student_0747,IT,91,56,Pass,Short Attendance,Excellent
+1748,Student_0748,IT,82,40,Pass,Short Attendance,Very Good
+1749,Student_0749,CSE,86,94,Pass,Eligible,Excellent
+1750,Student_0750,IT,23,70,Fail,Short Attendance,Poor
+1751,Student_0751,ME,77,70,Pass,Short Attendance,Very Good
+1752,Student_0752,ME,44,81,Pass,Eligible,Average
+1753,Student_0753,CSE,66,96,Pass,Eligible,Good
+1754,Student_0754,IT,57,94,Pass,Eligible,Good
+1755,Student_0755,IT,34,81,Fail,Eligible,Poor
+1756,Student_0756,IT,82,92,Pass,Eligible,Very Good
+1757,Student_0757,CE,40,95,Pass,Eligible,Average
+1758,Student_0758,ECE,76,73,Pass,Short Attendance,Very Good
+1759,Student_0759,CE,72,48,Pass,Short Attendance,Very Good
+1760,Student_0760,ECE,65,61,Pass,Short Attendance,Good
+1761,Student_0761,IT,33,52,Fail,Short Attendance,Poor
+1762,Student_0762,IT,95,64,Pass,Short Attendance,Excellent
+1763,Student_0763,CE,36,87,Fail,Eligible,Poor
+1764,Student_0764,CE,58,57,Pass,Short Attendance,Good
+1765,Student_0765,ECE,28,90,Fail,Eligible,Poor
+1766,Student_0766,ME,96,51,Pass,Short Attendance,Excellent
+1767,Student_0767,ECE,98,79,Pass,Eligible,Excellent
+1768,Student_0768,CE,25,56,Fail,Short Attendance,Poor
+1769,Student_0769,CE,42,54,Pass,Short Attendance,Average
+1770,Student_0770,CSE,78,81,Pass,Eligible,Very Good
+1771,Student_0771,CE,65,54,Pass,Short Attendance,Good
+1772,Student_0772,CSE,57,54,Pass,Short Attendance,Good
+1773,Student_0773,ME,33,94,Fail,Eligible,Poor
+1774,Student_0774,ECE,91,78,Pass,Eligible,Excellent
+1775,Student_0775,ECE,81,52,Pass,Short Attendance,Very Good
+1776,Student_0776,CSE,54,56,Pass,Short Attendance,Good
+1777,Student_0777,ECE,38,71,Fail,Short Attendance,Poor
+1778,Student_0778,CE,49,48,Pass,Short Attendance,Average
+1779,Student_0779,IT,97,79,Pass,Eligible,Excellent
+1780,Student_0780,CSE,44,59,Pass,Short Attendance,Average
+1781,Student_0781,ECE,59,65,Pass,Short Attendance,Good
+1782,Student_0782,CSE,33,66,Fail,Short Attendance,Poor
+1783,Student_0783,CSE,45,60,Pass,Short Attendance,Average
+1784,Student_0784,IT,41,57,Pass,Short Attendance,Average
+1785,Student_0785,CE,67,52,Pass,Short Attendance,Good
+1786,Student_0786,CSE,70,55,Pass,Short Attendance,Very Good
+1787,Student_0787,ECE,22,48,Fail,Short Attendance,Poor
+1788,Student_0788,ME,61,51,Pass,Short Attendance,Good
+1789,Student_0789,CSE,38,83,Fail,Eligible,Poor
+1790,Student_0790,CSE,92,77,Pass,Eligible,Excellent
+1791,Student_0791,IT,47,58,Pass,Short Attendance,Average
+1792,Student_0792,CE,64,99,Pass,Eligible,Good
+1793,Student_0793,ME,90,46,Pass,Short Attendance,Excellent
+1794,Student_0794,ECE,97,96,Pass,Eligible,Excellent
+1795,Student_0795,ME,82,74,Pass,Short Attendance,Very Good
+1796,Student_0796,ECE,92,87,Pass,Eligible,Excellent
+1797,Student_0797,CE,38,57,Fail,Short Attendance,Poor
+1798,Student_0798,ECE,66,55,Pass,Short Attendance,Good
+1799,Student_0799,IT,33,94,Fail,Eligible,Poor
+1800,Student_0800,IT,57,78,Pass,Eligible,Good
+1801,Student_0801,IT,72,43,Pass,Short Attendance,Very Good
+1802,Student_0802,IT,80,98,Pass,Eligible,Very Good
+1803,Student_0803,ME,55,64,Pass,Short Attendance,Good
+1804,Student_0804,CE,59,71,Pass,Short Attendance,Good
+1805,Student_0805,ECE,100,79,Pass,Eligible,Excellent
+1806,Student_0806,ECE,49,52,Pass,Short Attendance,Average
+1807,Student_0807,IT,28,84,Fail,Eligible,Poor
+1808,Student_0808,IT,83,56,Pass,Short Attendance,Very Good
+1809,Student_0809,CSE,52,88,Pass,Eligible,Good
+1810,Student_0810,CE,71,76,Pass,Eligible,Very Good
+1811,Student_0811,ME,33,45,Fail,Short Attendance,Poor
+1812,Student_0812,ECE,94,58,Pass,Short Attendance,Excellent
+1813,Student_0813,CSE,72,52,Pass,Short Attendance,Very Good
+1814,Student_0814,CSE,78,96,Pass,Eligible,Very Good
+1815,Student_0815,ECE,97,99,Pass,Eligible,Excellent
+1816,Student_0816,ME,60,65,Pass,Short Attendance,Good
+1817,Student_0817,CSE,87,53,Pass,Short Attendance,Excellent
+1818,Student_0818,CSE,87,70,Pass,Short Attendance,Excellent
+1819,Student_0819,CE,27,93,Fail,Eligible,Poor
+1820,Student_0820,ME,21,43,Fail,Short Attendance,Poor
+1821,Student_0821,CSE,60,99,Pass,Eligible,Good
+1822,Student_0822,ME,74,78,Pass,Eligible,Very Good
+1823,Student_0823,ECE,35,47,Fail,Short Attendance,Poor
+1824,Student_0824,IT,81,64,Pass,Short Attendance,Very Good
+1825,Student_0825,CSE,67,52,Pass,Short Attendance,Good
+1826,Student_0826,CE,49,71,Pass,Short Attendance,Average
+1827,Student_0827,ECE,31,98,Fail,Eligible,Poor
+1828,Student_0828,ME,54,77,Pass,Eligible,Good
+1829,Student_0829,ECE,30,77,Fail,Eligible,Poor
+1830,Student_0830,CSE,83,95,Pass,Eligible,Very Good
+1831,Student_0831,ME,69,67,Pass,Short Attendance,Good
+1832,Student_0832,IT,40,92,Pass,Eligible,Average
+1833,Student_0833,ECE,88,69,Pass,Short Attendance,Excellent
+1834,Student_0834,CSE,67,42,Pass,Short Attendance,Good
+1835,Student_0835,CE,39,67,Fail,Short Attendance,Poor
+1836,Student_0836,ME,86,42,Pass,Short Attendance,Excellent
+1837,Student_0837,ECE,63,84,Pass,Eligible,Good
+1838,Student_0838,ECE,52,93,Pass,Eligible,Good
+1839,Student_0839,IT,92,73,Pass,Short Attendance,Excellent
+1840,Student_0840,IT,80,55,Pass,Short Attendance,Very Good
+1841,Student_0841,CE,28,61,Fail,Short Attendance,Poor
+1842,Student_0842,CE,87,71,Pass,Short Attendance,Excellent
+1843,Student_0843,CSE,54,100,Pass,Eligible,Good
+1844,Student_0844,CSE,100,77,Pass,Eligible,Excellent
+1845,Student_0845,CE,84,47,Pass,Short Attendance,Very Good
+1846,Student_0846,CE,27,94,Fail,Eligible,Poor
+1847,Student_0847,ME,64,47,Pass,Short Attendance,Good
+1848,Student_0848,IT,66,96,Pass,Eligible,Good
+1849,Student_0849,CSE,59,45,Pass,Short Attendance,Good
+1850,Student_0850,IT,95,53,Pass,Short Attendance,Excellent
+1851,Student_0851,IT,73,71,Pass,Short Attendance,Very Good
+1852,Student_0852,CE,95,74,Pass,Short Attendance,Excellent
+1853,Student_0853,ME,65,49,Pass,Short Attendance,Good
+1854,Student_0854,ECE,66,42,Pass,Short Attendance,Good
+1855,Student_0855,ME,34,98,Fail,Eligible,Poor
+1856,Student_0856,ME,38,51,Fail,Short Attendance,Poor
+1857,Student_0857,IT,45,88,Pass,Eligible,Average
+1858,Student_0858,ME,71,98,Pass,Eligible,Very Good
+1859,Student_0859,CSE,41,70,Pass,Short Attendance,Average
+1860,Student_0860,IT,40,68,Pass,Short Attendance,Average
+1861,Student_0861,CSE,70,44,Pass,Short Attendance,Very Good
+1862,Student_0862,ECE,57,91,Pass,Eligible,Good
+1863,Student_0863,IT,39,64,Fail,Short Attendance,Poor
+1864,Student_0864,ECE,48,80,Pass,Eligible,Average
+1865,Student_0865,IT,70,70,Pass,Short Attendance,Very Good
+1866,Student_0866,CE,23,60,Fail,Short Attendance,Poor
+1867,Student_0867,ME,74,97,Pass,Eligible,Very Good
+1868,Student_0868,CE,90,59,Pass,Short Attendance,Excellent
+1869,Student_0869,ECE,47,78,Pass,Eligible,Average
+1870,Student_0870,ME,23,61,Fail,Short Attendance,Poor
+1871,Student_0871,IT,41,43,Pass,Short Attendance,Average
+1872,Student_0872,ME,95,52,Pass,Short Attendance,Excellent
+1873,Student_0873,CSE,64,84,Pass,Eligible,Good
+1874,Student_0874,ME,86,81,Pass,Eligible,Excellent
+1875,Student_0875,CSE,85,89,Pass,Eligible,Excellent
+1876,Student_0876,ME,53,88,Pass,Eligible,Good
+1877,Student_0877,CSE,74,59,Pass,Short Attendance,Very Good
+1878,Student_0878,ECE,20,91,Fail,Eligible,Poor
+1879,Student_0879,CE,91,52,Pass,Short Attendance,Excellent
+1880,Student_0880,IT,57,56,Pass,Short Attendance,Good
+1881,Student_0881,ME,25,93,Fail,Eligible,Poor
+1882,Student_0882,CE,44,75,Pass,Eligible,Average
+1883,Student_0883,IT,36,72,Fail,Short Attendance,Poor
+1884,Student_0884,IT,80,40,Pass,Short Attendance,Very Good
+1885,Student_0885,CSE,31,54,Fail,Short Attendance,Poor
+1886,Student_0886,ECE,25,52,Fail,Short Attendance,Poor
+1887,Student_0887,ECE,46,56,Pass,Short Attendance,Average
+1888,Student_0888,CE,27,63,Fail,Short Attendance,Poor
+1889,Student_0889,ECE,84,97,Pass,Eligible,Very Good
+1890,Student_0890,ME,76,47,Pass,Short Attendance,Very Good
+1891,Student_0891,ECE,59,89,Pass,Eligible,Good
+1892,Student_0892,CE,33,66,Fail,Short Attendance,Poor
+1893,Student_0893,ECE,54,84,Pass,Eligible,Good
+1894,Student_0894,ME,67,62,Pass,Short Attendance,Good
+1895,Student_0895,CSE,75,85,Pass,Eligible,Very Good
+1896,Student_0896,CE,68,47,Pass,Short Attendance,Good
+1897,Student_0897,CSE,32,47,Fail,Short Attendance,Poor
+1898,Student_0898,CSE,80,98,Pass,Eligible,Very Good
+1899,Student_0899,CSE,68,65,Pass,Short Attendance,Good
+1900,Student_0900,IT,65,86,Pass,Eligible,Good
+1901,Student_0901,IT,81,98,Pass,Eligible,Very Good
+1902,Student_0902,CSE,27,52,Fail,Short Attendance,Poor
+1903,Student_0903,CE,62,78,Pass,Eligible,Good
+1904,Student_0904,ME,39,76,Fail,Eligible,Poor
+1905,Student_0905,ME,58,88,Pass,Eligible,Good
+1906,Student_0906,ECE,68,67,Pass,Short Attendance,Good
+1907,Student_0907,CE,83,64,Pass,Short Attendance,Very Good
+1908,Student_0908,IT,81,100,Pass,Eligible,Very Good
+1909,Student_0909,CSE,73,55,Pass,Short Attendance,Very Good
+1910,Student_0910,ECE,28,94,Fail,Eligible,Poor
+1911,Student_0911,ME,56,41,Pass,Short Attendance,Good
+1912,Student_0912,IT,68,93,Pass,Eligible,Good
+1913,Student_0913,IT,60,57,Pass,Short Attendance,Good
+1914,Student_0914,CSE,36,56,Fail,Short Attendance,Poor
+1915,Student_0915,ME,40,69,Pass,Short Attendance,Average
+1916,Student_0916,CE,70,78,Pass,Eligible,Very Good
+1917,Student_0917,IT,78,52,Pass,Short Attendance,Very Good
+1918,Student_0918,CSE,58,71,Pass,Short Attendance,Good
+1919,Student_0919,CE,74,89,Pass,Eligible,Very Good
+1920,Student_0920,ME,60,68,Pass,Short Attendance,Good
+1921,Student_0921,IT,58,85,Pass,Eligible,Good
+1922,Student_0922,CE,32,69,Fail,Short Attendance,Poor
+1923,Student_0923,CE,83,57,Pass,Short Attendance,Very Good
+1924,Student_0924,CE,30,52,Fail,Short Attendance,Poor
+1925,Student_0925,IT,38,82,Fail,Eligible,Poor
+1926,Student_0926,IT,30,60,Fail,Short Attendance,Poor
+1927,Student_0927,ECE,96,69,Pass,Short Attendance,Excellent
+1928,Student_0928,ME,65,60,Pass,Short Attendance,Good
+1929,Student_0929,CSE,64,87,Pass,Eligible,Good
+1930,Student_0930,CE,20,94,Fail,Eligible,Poor
+1931,Student_0931,ECE,59,56,Pass,Short Attendance,Good
+1932,Student_0932,CSE,38,79,Fail,Eligible,Poor
+1933,Student_0933,ECE,95,58,Pass,Short Attendance,Excellent
+1934,Student_0934,IT,91,91,Pass,Eligible,Excellent
+1935,Student_0935,CE,91,54,Pass,Short Attendance,Excellent
+1936,Student_0936,CSE,80,48,Pass,Short Attendance,Very Good
+1937,Student_0937,CSE,31,91,Fail,Eligible,Poor
+1938,Student_0938,CSE,80,49,Pass,Short Attendance,Very Good
+1939,Student_0939,CSE,52,83,Pass,Eligible,Good
+1940,Student_0940,CSE,64,70,Pass,Short Attendance,Good
+1941,Student_0941,ECE,88,92,Pass,Eligible,Excellent
+1942,Student_0942,CE,27,62,Fail,Short Attendance,Poor
+1943,Student_0943,IT,44,91,Pass,Eligible,Average
+1944,Student_0944,IT,65,69,Pass,Short Attendance,Good
+1945,Student_0945,IT,49,72,Pass,Short Attendance,Average
+1946,Student_0946,IT,66,96,Pass,Eligible,Good
+1947,Student_0947,ECE,68,91,Pass,Eligible,Good
+1948,Student_0948,ME,66,48,Pass,Short Attendance,Good
+1949,Student_0949,CE,37,93,Fail,Eligible,Poor
+1950,Student_0950,CSE,85,86,Pass,Eligible,Excellent
+1951,Student_0951,ME,87,40,Pass,Short Attendance,Excellent
+1952,Student_0952,IT,52,83,Pass,Eligible,Good
+1953,Student_0953,ME,55,74,Pass,Short Attendance,Good
+1954,Student_0954,CE,38,50,Fail,Short Attendance,Poor
+1955,Student_0955,CSE,47,73,Pass,Short Attendance,Average
+1956,Student_0956,CSE,59,55,Pass,Short Attendance,Good
+1957,Student_0957,CE,95,48,Pass,Short Attendance,Excellent
+1958,Student_0958,CE,34,71,Fail,Short Attendance,Poor
+1959,Student_0959,IT,60,54,Pass,Short Attendance,Good
+1960,Student_0960,CSE,58,51,Pass,Short Attendance,Good
+1961,Student_0961,ME,21,72,Fail,Short Attendance,Poor
+1962,Student_0962,ECE,82,84,Pass,Eligible,Very Good
+1963,Student_0963,ECE,48,53,Pass,Short Attendance,Average
+1964,Student_0964,CE,93,96,Pass,Eligible,Excellent
+1965,Student_0965,IT,85,96,Pass,Eligible,Excellent
+1966,Student_0966,ECE,70,47,Pass,Short Attendance,Very Good
+1967,Student_0967,CSE,94,47,Pass,Short Attendance,Excellent
+1968,Student_0968,CE,96,66,Pass,Short Attendance,Excellent
+1969,Student_0969,ME,29,51,Fail,Short Attendance,Poor
+1970,Student_0970,CE,33,40,Fail,Short Attendance,Poor
+1971,Student_0971,ME,70,82,Pass,Eligible,Very Good
+1972,Student_0972,CE,92,79,Pass,Eligible,Excellent
+1973,Student_0973,CE,58,81,Pass,Eligible,Good
+1974,Student_0974,CE,47,90,Pass,Eligible,Average
+1975,Student_0975,ME,22,50,Fail,Short Attendance,Poor
+1976,Student_0976,ME,89,78,Pass,Eligible,Excellent
+1977,Student_0977,CE,46,82,Pass,Eligible,Average
+1978,Student_0978,ECE,21,70,Fail,Short Attendance,Poor
+1979,Student_0979,IT,57,56,Pass,Short Attendance,Good
+1980,Student_0980,IT,22,72,Fail,Short Attendance,Poor
+1981,Student_0981,IT,35,71,Fail,Short Attendance,Poor
+1982,Student_0982,ME,59,97,Pass,Eligible,Good
+1983,Student_0983,ME,21,68,Fail,Short Attendance,Poor
+1984,Student_0984,ECE,100,60,Pass,Short Attendance,Excellent
+1985,Student_0985,IT,60,60,Pass,Short Attendance,Good
+1986,Student_0986,IT,31,79,Fail,Eligible,Poor
+1987,Student_0987,CE,54,62,Pass,Short Attendance,Good
+1988,Student_0988,ME,84,95,Pass,Eligible,Very Good
+1989,Student_0989,IT,74,45,Pass,Short Attendance,Very Good
+1990,Student_0990,ECE,64,61,Pass,Short Attendance,Good
+1991,Student_0991,ECE,98,89,Pass,Eligible,Excellent
+1992,Student_0992,IT,81,77,Pass,Eligible,Very Good
+1993,Student_0993,ME,68,76,Pass,Eligible,Good
+1994,Student_0994,ECE,44,84,Pass,Eligible,Average
+1995,Student_0995,CE,42,90,Pass,Eligible,Average
+1996,Student_0996,ECE,43,93,Pass,Eligible,Average
+1997,Student_0997,CSE,57,47,Pass,Short Attendance,Good
+1998,Student_0998,CSE,47,80,Pass,Eligible,Average
+1999,Student_0999,ME,40,88,Pass,Eligible,Average
+2000,Student_1000,IT,73,74,Pass,Short Attendance,Very Good
+2001,Student_1001,ME,37,90,Fail,Eligible,Poor
+2002,Student_1002,ME,55,50,Pass,Short Attendance,Good
+2003,Student_1003,ME,64,63,Pass,Short Attendance,Good
+2004,Student_1004,ME,92,88,Pass,Eligible,Excellent
+2005,Student_1005,CE,72,60,Pass,Short Attendance,Very Good
+2006,Student_1006,CE,49,90,Pass,Eligible,Average
+2007,Student_1007,ECE,79,41,Pass,Short Attendance,Very Good
+2008,Student_1008,CSE,51,79,Pass,Eligible,Good
+2009,Student_1009,ME,86,58,Pass,Short Attendance,Excellent
+2010,Student_1010,ECE,86,78,Pass,Eligible,Excellent
+2011,Student_1011,CSE,47,67,Pass,Short Attendance,Average
+2012,Student_1012,IT,63,98,Pass,Eligible,Good
+2013,Student_1013,CE,98,56,Pass,Short Attendance,Excellent
+2014,Student_1014,CSE,60,45,Pass,Short Attendance,Good
+2015,Student_1015,IT,82,58,Pass,Short Attendance,Very Good
+2016,Student_1016,CSE,42,95,Pass,Eligible,Average
+2017,Student_1017,CE,94,77,Pass,Eligible,Excellent
+2018,Student_1018,CE,67,67,Pass,Short Attendance,Good
+2019,Student_1019,ECE,51,41,Pass,Short Attendance,Good
+2020,Student_1020,ME,76,77,Pass,Eligible,Very Good
+2021,Student_1021,CSE,52,94,Pass,Eligible,Good
+2022,Student_1022,CSE,43,76,Pass,Eligible,Average
+2023,Student_1023,IT,58,90,Pass,Eligible,Good
+2024,Student_1024,CE,53,91,Pass,Eligible,Good
+2025,Student_1025,CSE,75,43,Pass,Short Attendance,Very Good
+2026,Student_1026,CE,47,61,Pass,Short Attendance,Average
+2027,Student_1027,CSE,56,65,Pass,Short Attendance,Good
+2028,Student_1028,ECE,26,88,Fail,Eligible,Poor
+2029,Student_1029,ME,87,82,Pass,Eligible,Excellent
+2030,Student_1030,CSE,56,75,Pass,Eligible,Good
+2031,Student_1031,CE,75,97,Pass,Eligible,Very Good
+2032,Student_1032,ECE,84,52,Pass,Short Attendance,Very Good
+2033,Student_1033,CSE,84,91,Pass,Eligible,Very Good
+2034,Student_1034,IT,66,97,Pass,Eligible,Good
+2035,Student_1035,ME,39,71,Fail,Short Attendance,Poor
+2036,Student_1036,CSE,38,56,Fail,Short Attendance,Poor
+2037,Student_1037,ECE,48,80,Pass,Eligible,Average
+2038,Student_1038,IT,93,75,Pass,Eligible,Excellent
+2039,Student_1039,ECE,79,94,Pass,Eligible,Very Good
+2040,Student_1040,ECE,37,99,Fail,Eligible,Poor
+2041,Student_1041,IT,54,85,Pass,Eligible,Good
+2042,Student_1042,ECE,62,58,Pass,Short Attendance,Good
+2043,Student_1043,IT,30,97,Fail,Eligible,Poor
+2044,Student_1044,CSE,68,99,Pass,Eligible,Good
+2045,Student_1045,IT,57,74,Pass,Short Attendance,Good
+2046,Student_1046,IT,83,85,Pass,Eligible,Very Good
+2047,Student_1047,ME,88,79,Pass,Eligible,Excellent
+2048,Student_1048,IT,27,95,Fail,Eligible,Poor
+2049,Student_1049,IT,53,98,Pass,Eligible,Good
+2050,Student_1050,CSE,67,67,Pass,Short Attendance,Good
+2051,Student_1051,ME,75,40,Pass,Short Attendance,Very Good
+2052,Student_1052,CE,95,81,Pass,Eligible,Excellent
+2053,Student_1053,CSE,84,57,Pass,Short Attendance,Very Good
+2054,Student_1054,CSE,50,87,Pass,Eligible,Good
+2055,Student_1055,CE,23,79,Fail,Eligible,Poor
+2056,Student_1056,IT,69,72,Pass,Short Attendance,Good
+2057,Student_1057,ECE,88,51,Pass,Short Attendance,Excellent
+2058,Student_1058,ME,49,47,Pass,Short Attendance,Average
+2059,Student_1059,ECE,78,63,Pass,Short Attendance,Very Good
+2060,Student_1060,CE,86,55,Pass,Short Attendance,Excellent
+2061,Student_1061,CSE,94,89,Pass,Eligible,Excellent
+2062,Student_1062,CSE,64,43,Pass,Short Attendance,Good
+2063,Student_1063,ME,23,77,Fail,Eligible,Poor
+2064,Student_1064,CSE,45,83,Pass,Eligible,Average
+2065,Student_1065,CSE,46,66,Pass,Short Attendance,Average
+2066,Student_1066,ME,65,48,Pass,Short Attendance,Good
+2067,Student_1067,ME,83,86,Pass,Eligible,Very Good
+2068,Student_1068,CE,70,55,Pass,Short Attendance,Very Good
+2069,Student_1069,CSE,69,95,Pass,Eligible,Good
+2070,Student_1070,CSE,25,51,Fail,Short Attendance,Poor
+2071,Student_1071,CE,78,70,Pass,Short Attendance,Very Good
+2072,Student_1072,IT,34,63,Fail,Short Attendance,Poor
+2073,Student_1073,IT,49,94,Pass,Eligible,Average
+2074,Student_1074,IT,61,53,Pass,Short Attendance,Good
+2075,Student_1075,CE,56,84,Pass,Eligible,Good
+2076,Student_1076,CSE,61,64,Pass,Short Attendance,Good
+2077,Student_1077,CE,54,73,Pass,Short Attendance,Good
+2078,Student_1078,CE,25,42,Fail,Short Attendance,Poor
+2079,Student_1079,IT,87,97,Pass,Eligible,Excellent
+2080,Student_1080,ECE,37,63,Fail,Short Attendance,Poor
+2081,Student_1081,CSE,92,93,Pass,Eligible,Excellent
+2082,Student_1082,IT,48,81,Pass,Eligible,Average
+2083,Student_1083,ECE,96,48,Pass,Short Attendance,Excellent
+2084,Student_1084,ECE,78,65,Pass,Short Attendance,Very Good
+2085,Student_1085,ME,66,59,Pass,Short Attendance,Good
+2086,Student_1086,CSE,36,79,Fail,Eligible,Poor
+2087,Student_1087,ECE,41,49,Pass,Short Attendance,Average
+2088,Student_1088,IT,87,58,Pass,Short Attendance,Excellent
+2089,Student_1089,ME,88,42,Pass,Short Attendance,Excellent
+2090,Student_1090,CSE,56,63,Pass,Short Attendance,Good
+2091,Student_1091,CE,68,44,Pass,Short Attendance,Good
+2092,Student_1092,IT,32,42,Fail,Short Attendance,Poor
+2093,Student_1093,ECE,53,97,Pass,Eligible,Good
+2094,Student_1094,ECE,72,66,Pass,Short Attendance,Very Good
+2095,Student_1095,IT,70,55,Pass,Short Attendance,Very Good
+2096,Student_1096,ECE,22,88,Fail,Eligible,Poor
+2097,Student_1097,ME,61,54,Pass,Short Attendance,Good
+2098,Student_1098,CSE,51,74,Pass,Short Attendance,Good
+2099,Student_1099,ME,70,51,Pass,Short Attendance,Very Good
+2100,Student_1100,ECE,65,80,Pass,Eligible,Good
+2101,Student_1101,CE,40,92,Pass,Eligible,Average
+2102,Student_1102,CSE,63,83,Pass,Eligible,Good
+2103,Student_1103,CSE,30,65,Fail,Short Attendance,Poor
+2104,Student_1104,IT,87,86,Pass,Eligible,Excellent
+2105,Student_1105,IT,20,73,Fail,Short Attendance,Poor
+2106,Student_1106,CE,82,62,Pass,Short Attendance,Very Good
+2107,Student_1107,CSE,43,70,Pass,Short Attendance,Average
+2108,Student_1108,CE,32,89,Fail,Eligible,Poor
+2109,Student_1109,IT,30,59,Fail,Short Attendance,Poor
+2110,Student_1110,IT,70,51,Pass,Short Attendance,Very Good
+2111,Student_1111,CSE,36,62,Fail,Short Attendance,Poor
+2112,Student_1112,ME,43,43,Pass,Short Attendance,Average
+2113,Student_1113,ECE,38,62,Fail,Short Attendance,Poor
+2114,Student_1114,IT,56,87,Pass,Eligible,Good
+2115,Student_1115,IT,27,94,Fail,Eligible,Poor
+2116,Student_1116,ME,47,87,Pass,Eligible,Average
+2117,Student_1117,ME,24,40,Fail,Short Attendance,Poor
+2118,Student_1118,CE,36,93,Fail,Eligible,Poor
+2119,Student_1119,CE,55,64,Pass,Short Attendance,Good
+2120,Student_1120,ECE,38,41,Fail,Short Attendance,Poor
+2121,Student_1121,ECE,83,69,Pass,Short Attendance,Very Good
+2122,Student_1122,CSE,30,42,Fail,Short Attendance,Poor
+2123,Student_1123,CE,73,97,Pass,Eligible,Very Good
+2124,Student_1124,IT,64,60,Pass,Short Attendance,Good
+2125,Student_1125,CE,66,64,Pass,Short Attendance,Good
+2126,Student_1126,IT,31,59,Fail,Short Attendance,Poor
+2127,Student_1127,ME,40,88,Pass,Eligible,Average
+2128,Student_1128,CE,30,91,Fail,Eligible,Poor
+2129,Student_1129,ME,24,61,Fail,Short Attendance,Poor
+2130,Student_1130,ECE,100,60,Pass,Short Attendance,Excellent
+2131,Student_1131,ECE,75,100,Pass,Eligible,Very Good
+2132,Student_1132,CSE,39,72,Fail,Short Attendance,Poor
+2133,Student_1133,CE,60,91,Pass,Eligible,Good
+2134,Student_1134,ME,65,77,Pass,Eligible,Good
+2135,Student_1135,IT,31,100,Fail,Eligible,Poor
+2136,Student_1136,ECE,89,54,Pass,Short Attendance,Excellent
+2137,Student_1137,ECE,36,97,Fail,Eligible,Poor
+2138,Student_1138,IT,38,97,Fail,Eligible,Poor
+2139,Student_1139,ME,45,85,Pass,Eligible,Average
+2140,Student_1140,ME,67,91,Pass,Eligible,Good
+2141,Student_1141,CE,71,54,Pass,Short Attendance,Very Good
+2142,Student_1142,CE,89,85,Pass,Eligible,Excellent
+2143,Student_1143,CSE,74,64,Pass,Short Attendance,Very Good
+2144,Student_1144,ECE,94,60,Pass,Short Attendance,Excellent
+2145,Student_1145,CE,52,63,Pass,Short Attendance,Good
+2146,Student_1146,ME,81,96,Pass,Eligible,Very Good
+2147,Student_1147,IT,42,97,Pass,Eligible,Average
+2148,Student_1148,ME,34,44,Fail,Short Attendance,Poor
+2149,Student_1149,ECE,46,45,Pass,Short Attendance,Average
+2150,Student_1150,ME,94,88,Pass,Eligible,Excellent
+2151,Student_1151,CSE,83,82,Pass,Eligible,Very Good
+2152,Student_1152,ECE,100,87,Pass,Eligible,Excellent
+2153,Student_1153,IT,70,83,Pass,Eligible,Very Good
+2154,Student_1154,CSE,72,86,Pass,Eligible,Very Good
+2155,Student_1155,ECE,97,62,Pass,Short Attendance,Excellent
+2156,Student_1156,IT,70,43,Pass,Short Attendance,Very Good
+2157,Student_1157,CSE,66,66,Pass,Short Attendance,Good
+2158,Student_1158,CSE,23,57,Fail,Short Attendance,Poor
+2159,Student_1159,ECE,26,60,Fail,Short Attendance,Poor
+2160,Student_1160,CE,54,67,Pass,Short Attendance,Good
+2161,Student_1161,CSE,67,74,Pass,Short Attendance,Good
+2162,Student_1162,CSE,92,61,Pass,Short Attendance,Excellent
+2163,Student_1163,IT,91,79,Pass,Eligible,Excellent
+2164,Student_1164,ME,64,62,Pass,Short Attendance,Good
+2165,Student_1165,ECE,100,42,Pass,Short Attendance,Excellent
+2166,Student_1166,ECE,100,79,Pass,Eligible,Excellent
+2167,Student_1167,CE,91,89,Pass,Eligible,Excellent
+2168,Student_1168,CE,38,49,Fail,Short Attendance,Poor
+2169,Student_1169,ECE,82,64,Pass,Short Attendance,Very Good
+2170,Student_1170,CE,57,91,Pass,Eligible,Good
+2171,Student_1171,IT,86,88,Pass,Eligible,Excellent
+2172,Student_1172,ECE,78,47,Pass,Short Attendance,Very Good
+2173,Student_1173,CE,88,94,Pass,Eligible,Excellent
+2174,Student_1174,ECE,32,50,Fail,Short Attendance,Poor
+2175,Student_1175,ME,66,100,Pass,Eligible,Good
+2176,Student_1176,CSE,80,44,Pass,Short Attendance,Very Good
+2177,Student_1177,ECE,50,97,Pass,Eligible,Good
+2178,Student_1178,CSE,99,84,Pass,Eligible,Excellent
+2179,Student_1179,CE,41,92,Pass,Eligible,Average
+2180,Student_1180,CSE,62,94,Pass,Eligible,Good
+2181,Student_1181,ECE,86,76,Pass,Eligible,Excellent
+2182,Student_1182,ME,73,95,Pass,Eligible,Very Good
+2183,Student_1183,CE,29,98,Fail,Eligible,Poor
+2184,Student_1184,ECE,61,84,Pass,Eligible,Good
+2185,Student_1185,CE,83,77,Pass,Eligible,Very Good
+2186,Student_1186,IT,40,68,Pass,Short Attendance,Average
+2187,Student_1187,CSE,99,44,Pass,Short Attendance,Excellent
+2188,Student_1188,IT,95,48,Pass,Short Attendance,Excellent
+2189,Student_1189,ECE,85,98,Pass,Eligible,Excellent
+2190,Student_1190,ME,60,87,Pass,Eligible,Good
+2191,Student_1191,CE,43,41,Pass,Short Attendance,Average
+2192,Student_1192,CSE,54,40,Pass,Short Attendance,Good
+2193,Student_1193,CE,75,79,Pass,Eligible,Very Good
+2194,Student_1194,ECE,49,99,Pass,Eligible,Average
+2195,Student_1195,CE,76,90,Pass,Eligible,Very Good
+2196,Student_1196,CSE,66,69,Pass,Short Attendance,Good
+2197,Student_1197,ECE,54,50,Pass,Short Attendance,Good
+2198,Student_1198,CE,38,67,Fail,Short Attendance,Poor
+2199,Student_1199,ME,27,83,Fail,Eligible,Poor
+2200,Student_1200,ECE,45,51,Pass,Short Attendance,Average
+2201,Student_1201,ECE,90,78,Pass,Eligible,Excellent
+2202,Student_1202,ME,49,65,Pass,Short Attendance,Average
+2203,Student_1203,IT,26,52,Fail,Short Attendance,Poor
+2204,Student_1204,CSE,86,98,Pass,Eligible,Excellent
+2205,Student_1205,IT,84,47,Pass,Short Attendance,Very Good
+2206,Student_1206,CE,55,100,Pass,Eligible,Good
+2207,Student_1207,ME,44,100,Pass,Eligible,Average
+2208,Student_1208,IT,56,93,Pass,Eligible,Good
+2209,Student_1209,ECE,20,67,Fail,Short Attendance,Poor
+2210,Student_1210,CE,34,97,Fail,Eligible,Poor
+2211,Student_1211,CE,56,69,Pass,Short Attendance,Good
+2212,Student_1212,IT,32,48,Fail,Short Attendance,Poor
+2213,Student_1213,IT,27,78,Fail,Eligible,Poor
+2214,Student_1214,ME,24,70,Fail,Short Attendance,Poor
+2215,Student_1215,CSE,79,97,Pass,Eligible,Very Good
+2216,Student_1216,IT,92,60,Pass,Short Attendance,Excellent
+2217,Student_1217,IT,20,95,Fail,Eligible,Poor
+2218,Student_1218,ECE,55,86,Pass,Eligible,Good
+2219,Student_1219,CE,54,73,Pass,Short Attendance,Good
+2220,Student_1220,CSE,85,94,Pass,Eligible,Excellent
+2221,Student_1221,ECE,82,70,Pass,Short Attendance,Very Good
+2222,Student_1222,ME,42,91,Pass,Eligible,Average
+2223,Student_1223,ME,28,64,Fail,Short Attendance,Poor
+2224,Student_1224,IT,53,51,Pass,Short Attendance,Good
+2225,Student_1225,IT,65,40,Pass,Short Attendance,Good
+2226,Student_1226,ME,97,94,Pass,Eligible,Excellent
+2227,Student_1227,IT,23,61,Fail,Short Attendance,Poor
+2228,Student_1228,CSE,49,79,Pass,Eligible,Average
+2229,Student_1229,IT,94,76,Pass,Eligible,Excellent
+2230,Student_1230,CE,91,86,Pass,Eligible,Excellent
+2231,Student_1231,IT,22,40,Fail,Short Attendance,Poor
+2232,Student_1232,ECE,33,40,Fail,Short Attendance,Poor
+2233,Student_1233,CSE,79,96,Pass,Eligible,Very Good
+2234,Student_1234,ECE,96,81,Pass,Eligible,Excellent
+2235,Student_1235,ECE,64,93,Pass,Eligible,Good
+2236,Student_1236,CE,53,81,Pass,Eligible,Good
+2237,Student_1237,CSE,64,60,Pass,Short Attendance,Good
+2238,Student_1238,CSE,80,54,Pass,Short Attendance,Very Good
+2239,Student_1239,CSE,35,56,Fail,Short Attendance,Poor
+2240,Student_1240,CSE,85,61,Pass,Short Attendance,Excellent
+2241,Student_1241,CSE,59,77,Pass,Eligible,Good
+2242,Student_1242,CE,36,74,Fail,Short Attendance,Poor
+2243,Student_1243,IT,53,84,Pass,Eligible,Good
+2244,Student_1244,ECE,35,55,Fail,Short Attendance,Poor
+2245,Student_1245,CSE,79,47,Pass,Short Attendance,Very Good
+2246,Student_1246,IT,85,86,Pass,Eligible,Excellent
+2247,Student_1247,IT,85,56,Pass,Short Attendance,Excellent
+2248,Student_1248,ECE,32,56,Fail,Short Attendance,Poor
+2249,Student_1249,CE,75,93,Pass,Eligible,Very Good
+2250,Student_1250,ME,50,65,Pass,Short Attendance,Good
+2251,Student_1251,ME,53,52,Pass,Short Attendance,Good
+2252,Student_1252,IT,58,56,Pass,Short Attendance,Good
+2253,Student_1253,ECE,86,77,Pass,Eligible,Excellent
+2254,Student_1254,ME,27,56,Fail,Short Attendance,Poor
+2255,Student_1255,IT,97,87,Pass,Eligible,Excellent
+2256,Student_1256,CE,74,53,Pass,Short Attendance,Very Good
+2257,Student_1257,ME,46,84,Pass,Eligible,Average
+2258,Student_1258,IT,72,45,Pass,Short Attendance,Very Good
+2259,Student_1259,IT,58,74,Pass,Short Attendance,Good
+2260,Student_1260,CSE,84,85,Pass,Eligible,Very Good
+2261,Student_1261,CE,36,53,Fail,Short Attendance,Poor
+2262,Student_1262,CSE,49,86,Pass,Eligible,Average
+2263,Student_1263,ECE,72,47,Pass,Short Attendance,Very Good
+2264,Student_1264,CSE,32,100,Fail,Eligible,Poor
+2265,Student_1265,CSE,40,54,Pass,Short Attendance,Average
+2266,Student_1266,ME,38,93,Fail,Eligible,Poor
+2267,Student_1267,IT,72,100,Pass,Eligible,Very Good
+2268,Student_1268,CE,38,66,Fail,Short Attendance,Poor
+2269,Student_1269,CSE,76,52,Pass,Short Attendance,Very Good
+2270,Student_1270,CE,44,88,Pass,Eligible,Average
+2271,Student_1271,CSE,50,70,Pass,Short Attendance,Good
+2272,Student_1272,ECE,100,92,Pass,Eligible,Excellent
+2273,Student_1273,CSE,74,95,Pass,Eligible,Very Good
+2274,Student_1274,ME,42,74,Pass,Short Attendance,Average
+2275,Student_1275,IT,51,99,Pass,Eligible,Good
+2276,Student_1276,ECE,81,45,Pass,Short Attendance,Very Good
+2277,Student_1277,CSE,93,44,Pass,Short Attendance,Excellent
+2278,Student_1278,CE,29,61,Fail,Short Attendance,Poor
+2279,Student_1279,ECE,91,97,Pass,Eligible,Excellent
+2280,Student_1280,ECE,73,88,Pass,Eligible,Very Good
+2281,Student_1281,CSE,71,62,Pass,Short Attendance,Very Good
+2282,Student_1282,ECE,39,64,Fail,Short Attendance,Poor
+2283,Student_1283,CE,51,73,Pass,Short Attendance,Good
+2284,Student_1284,ECE,33,65,Fail,Short Attendance,Poor
+2285,Student_1285,CE,69,86,Pass,Eligible,Good
+2286,Student_1286,CSE,47,44,Pass,Short Attendance,Average
+2287,Student_1287,IT,72,65,Pass,Short Attendance,Very Good
+2288,Student_1288,ECE,43,59,Pass,Short Attendance,Average
+2289,Student_1289,IT,98,45,Pass,Short Attendance,Excellent
+2290,Student_1290,CE,41,45,Pass,Short Attendance,Average
+2291,Student_1291,ECE,49,98,Pass,Eligible,Average
+2292,Student_1292,ME,82,89,Pass,Eligible,Very Good
+2293,Student_1293,IT,23,57,Fail,Short Attendance,Poor
+2294,Student_1294,ECE,96,43,Pass,Short Attendance,Excellent
+2295,Student_1295,IT,78,56,Pass,Short Attendance,Very Good
+2296,Student_1296,ECE,27,96,Fail,Eligible,Poor
+2297,Student_1297,CSE,31,53,Fail,Short Attendance,Poor
+2298,Student_1298,IT,50,53,Pass,Short Attendance,Good
+2299,Student_1299,ME,97,52,Pass,Short Attendance,Excellent
+2300,Student_1300,ME,53,46,Pass,Short Attendance,Good
+2301,Student_1301,CE,94,83,Pass,Eligible,Excellent
+2302,Student_1302,ECE,95,94,Pass,Eligible,Excellent
+2303,Student_1303,IT,68,54,Pass,Short Attendance,Good
+2304,Student_1304,CE,98,58,Pass,Short Attendance,Excellent
+2305,Student_1305,IT,76,82,Pass,Eligible,Very Good
+2306,Student_1306,ECE,45,86,Pass,Eligible,Average
+2307,Student_1307,ME,37,83,Fail,Eligible,Poor
+2308,Student_1308,CSE,57,74,Pass,Short Attendance,Good
+2309,Student_1309,ME,100,56,Pass,Short Attendance,Excellent
+2310,Student_1310,CE,69,74,Pass,Short Attendance,Good
+2311,Student_1311,CSE,27,58,Fail,Short Attendance,Poor
+2312,Student_1312,CE,60,59,Pass,Short Attendance,Good
+2313,Student_1313,ECE,25,75,Fail,Eligible,Poor
+2314,Student_1314,CSE,88,74,Pass,Short Attendance,Excellent
+2315,Student_1315,CE,63,71,Pass,Short Attendance,Good
+2316,Student_1316,ECE,83,97,Pass,Eligible,Very Good
+2317,Student_1317,ME,48,87,Pass,Eligible,Average
+2318,Student_1318,ECE,47,83,Pass,Eligible,Average
+2319,Student_1319,IT,30,79,Fail,Eligible,Poor
+2320,Student_1320,ECE,84,63,Pass,Short Attendance,Very Good
+2321,Student_1321,ECE,38,100,Fail,Eligible,Poor
+2322,Student_1322,IT,28,100,Fail,Eligible,Poor
+2323,Student_1323,CE,46,56,Pass,Short Attendance,Average
+2324,Student_1324,CE,53,46,Pass,Short Attendance,Good
+2325,Student_1325,ECE,63,82,Pass,Eligible,Good
+2326,Student_1326,IT,87,89,Pass,Eligible,Excellent
+2327,Student_1327,IT,34,40,Fail,Short Attendance,Poor
+2328,Student_1328,ME,70,74,Pass,Short Attendance,Very Good
+2329,Student_1329,CE,32,71,Fail,Short Attendance,Poor
+2330,Student_1330,CSE,68,75,Pass,Eligible,Good
+2331,Student_1331,CE,89,52,Pass,Short Attendance,Excellent
+2332,Student_1332,CE,75,45,Pass,Short Attendance,Very Good
+2333,Student_1333,ME,95,97,Pass,Eligible,Excellent
+2334,Student_1334,CSE,70,53,Pass,Short Attendance,Very Good
+2335,Student_1335,ME,56,76,Pass,Eligible,Good
+2336,Student_1336,CSE,36,87,Fail,Eligible,Poor
+2337,Student_1337,ECE,77,54,Pass,Short Attendance,Very Good
+2338,Student_1338,CSE,48,86,Pass,Eligible,Average
+2339,Student_1339,ME,52,43,Pass,Short Attendance,Good
+2340,Student_1340,CE,79,79,Pass,Eligible,Very Good
+2341,Student_1341,CSE,74,98,Pass,Eligible,Very Good
+2342,Student_1342,CSE,29,55,Fail,Short Attendance,Poor
+2343,Student_1343,IT,66,67,Pass,Short Attendance,Good
+2344,Student_1344,CE,42,55,Pass,Short Attendance,Average
+2345,Student_1345,ECE,40,43,Pass,Short Attendance,Average
+2346,Student_1346,ME,32,84,Fail,Eligible,Poor
+2347,Student_1347,ECE,52,65,Pass,Short Attendance,Good
+2348,Student_1348,CE,43,67,Pass,Short Attendance,Average
+2349,Student_1349,CSE,30,71,Fail,Short Attendance,Poor
+2350,Student_1350,CSE,36,84,Fail,Eligible,Poor
+2351,Student_1351,CE,87,41,Pass,Short Attendance,Excellent
+2352,Student_1352,CSE,66,70,Pass,Short Attendance,Good
+2353,Student_1353,CSE,44,42,Pass,Short Attendance,Average
+2354,Student_1354,CSE,92,93,Pass,Eligible,Excellent
+2355,Student_1355,ME,40,47,Pass,Short Attendance,Average
+2356,Student_1356,ME,31,63,Fail,Short Attendance,Poor
+2357,Student_1357,IT,56,54,Pass,Short Attendance,Good
+2358,Student_1358,ECE,61,82,Pass,Eligible,Good
+2359,Student_1359,CE,36,70,Fail,Short Attendance,Poor
+2360,Student_1360,CE,67,48,Pass,Short Attendance,Good
+2361,Student_1361,CE,47,78,Pass,Eligible,Average
+2362,Student_1362,IT,60,84,Pass,Eligible,Good
+2363,Student_1363,ME,66,41,Pass,Short Attendance,Good
+2364,Student_1364,IT,37,47,Fail,Short Attendance,Poor
+2365,Student_1365,CE,97,46,Pass,Short Attendance,Excellent
+2366,Student_1366,ECE,90,95,Pass,Eligible,Excellent
+2367,Student_1367,CSE,32,83,Fail,Eligible,Poor
+2368,Student_1368,ME,32,90,Fail,Eligible,Poor
+2369,Student_1369,ME,50,78,Pass,Eligible,Good
+2370,Student_1370,IT,21,81,Fail,Eligible,Poor
+2371,Student_1371,ME,35,100,Fail,Eligible,Poor
+2372,Student_1372,CE,28,96,Fail,Eligible,Poor
+2373,Student_1373,CE,92,55,Pass,Short Attendance,Excellent
+2374,Student_1374,IT,57,74,Pass,Short Attendance,Good
+2375,Student_1375,CE,94,69,Pass,Short Attendance,Excellent
+2376,Student_1376,ECE,73,49,Pass,Short Attendance,Very Good
+2377,Student_1377,IT,75,77,Pass,Eligible,Very Good
+2378,Student_1378,ECE,64,57,Pass,Short Attendance,Good
+2379,Student_1379,CSE,53,89,Pass,Eligible,Good
+2380,Student_1380,ECE,28,44,Fail,Short Attendance,Poor
+2381,Student_1381,CSE,27,92,Fail,Eligible,Poor
+2382,Student_1382,CSE,26,68,Fail,Short Attendance,Poor
+2383,Student_1383,ECE,55,78,Pass,Eligible,Good
+2384,Student_1384,IT,37,99,Fail,Eligible,Poor
+2385,Student_1385,CE,22,73,Fail,Short Attendance,Poor
+2386,Student_1386,CE,47,82,Pass,Eligible,Average
+2387,Student_1387,CSE,89,84,Pass,Eligible,Excellent
+2388,Student_1388,CSE,63,62,Pass,Short Attendance,Good
+2389,Student_1389,IT,40,44,Pass,Short Attendance,Average
+2390,Student_1390,ME,47,69,Pass,Short Attendance,Average
+2391,Student_1391,ECE,73,45,Pass,Short Attendance,Very Good
+2392,Student_1392,CSE,73,95,Pass,Eligible,Very Good
+2393,Student_1393,CE,84,97,Pass,Eligible,Very Good
+2394,Student_1394,IT,40,100,Pass,Eligible,Average
+2395,Student_1395,ECE,32,85,Fail,Eligible,Poor
+2396,Student_1396,IT,76,83,Pass,Eligible,Very Good
+2397,Student_1397,ECE,68,43,Pass,Short Attendance,Good
+2398,Student_1398,ECE,73,68,Pass,Short Attendance,Very Good
+2399,Student_1399,CSE,29,62,Fail,Short Attendance,Poor
+2400,Student_1400,IT,72,45,Pass,Short Attendance,Very Good
+2401,Student_1401,IT,63,71,Pass,Short Attendance,Good
+2402,Student_1402,CE,66,81,Pass,Eligible,Good
+2403,Student_1403,CE,72,57,Pass,Short Attendance,Very Good
+2404,Student_1404,CSE,93,54,Pass,Short Attendance,Excellent
+2405,Student_1405,CSE,65,79,Pass,Eligible,Good
+2406,Student_1406,ME,32,97,Fail,Eligible,Poor
+2407,Student_1407,CE,56,71,Pass,Short Attendance,Good
+2408,Student_1408,ECE,43,48,Pass,Short Attendance,Average
+2409,Student_1409,IT,21,76,Fail,Eligible,Poor
+2410,Student_1410,CSE,100,49,Pass,Short Attendance,Excellent
+2411,Student_1411,IT,33,59,Fail,Short Attendance,Poor
+2412,Student_1412,IT,29,45,Fail,Short Attendance,Poor
+2413,Student_1413,ME,54,87,Pass,Eligible,Good
+2414,Student_1414,CE,44,95,Pass,Eligible,Average
+2415,Student_1415,CSE,22,98,Fail,Eligible,Poor
+2416,Student_1416,IT,36,42,Fail,Short Attendance,Poor
+2417,Student_1417,CSE,31,81,Fail,Eligible,Poor
+2418,Student_1418,ECE,73,50,Pass,Short Attendance,Very Good
+2419,Student_1419,ME,43,82,Pass,Eligible,Average
+2420,Student_1420,ECE,48,56,Pass,Short Attendance,Average
+2421,Student_1421,CSE,62,71,Pass,Short Attendance,Good
+2422,Student_1422,CSE,44,43,Pass,Short Attendance,Average
+2423,Student_1423,CE,79,43,Pass,Short Attendance,Very Good
+2424,Student_1424,IT,84,56,Pass,Short Attendance,Very Good
+2425,Student_1425,IT,47,80,Pass,Eligible,Average
+2426,Student_1426,ECE,35,58,Fail,Short Attendance,Poor
+2427,Student_1427,ME,66,44,Pass,Short Attendance,Good
+2428,Student_1428,IT,100,71,Pass,Short Attendance,Excellent
+2429,Student_1429,CE,77,61,Pass,Short Attendance,Very Good
+2430,Student_1430,ECE,95,95,Pass,Eligible,Excellent
+2431,Student_1431,ECE,46,45,Pass,Short Attendance,Average
+2432,Student_1432,CE,72,74,Pass,Short Attendance,Very Good
+2433,Student_1433,ME,61,61,Pass,Short Attendance,Good
+2434,Student_1434,CE,78,40,Pass,Short Attendance,Very Good
+2435,Student_1435,ME,66,59,Pass,Short Attendance,Good
+2436,Student_1436,CE,53,61,Pass,Short Attendance,Good
+2437,Student_1437,CE,56,87,Pass,Eligible,Good
+2438,Student_1438,CSE,25,94,Fail,Eligible,Poor
+2439,Student_1439,ECE,26,50,Fail,Short Attendance,Poor
+2440,Student_1440,CE,44,52,Pass,Short Attendance,Average
+2441,Student_1441,CE,52,98,Pass,Eligible,Good
+2442,Student_1442,IT,74,81,Pass,Eligible,Very Good
+2443,Student_1443,ECE,77,42,Pass,Short Attendance,Very Good
+2444,Student_1444,IT,26,48,Fail,Short Attendance,Poor
+2445,Student_1445,ECE,76,99,Pass,Eligible,Very Good
+2446,Student_1446,IT,31,51,Fail,Short Attendance,Poor
+2447,Student_1447,CE,35,62,Fail,Short Attendance,Poor
+2448,Student_1448,CE,99,53,Pass,Short Attendance,Excellent
+2449,Student_1449,CSE,62,72,Pass,Short Attendance,Good
+2450,Student_1450,IT,96,57,Pass,Short Attendance,Excellent
+2451,Student_1451,ME,26,88,Fail,Eligible,Poor
+2452,Student_1452,CSE,70,98,Pass,Eligible,Very Good
+2453,Student_1453,IT,92,80,Pass,Eligible,Excellent
+2454,Student_1454,IT,51,48,Pass,Short Attendance,Good
+2455,Student_1455,CSE,94,62,Pass,Short Attendance,Excellent
+2456,Student_1456,CE,27,49,Fail,Short Attendance,Poor
+2457,Student_1457,IT,91,58,Pass,Short Attendance,Excellent
+2458,Student_1458,CE,64,100,Pass,Eligible,Good
+2459,Student_1459,CSE,78,86,Pass,Eligible,Very Good
+2460,Student_1460,CE,23,44,Fail,Short Attendance,Poor
+2461,Student_1461,ECE,86,86,Pass,Eligible,Excellent
+2462,Student_1462,ME,48,91,Pass,Eligible,Average
+2463,Student_1463,IT,48,62,Pass,Short Attendance,Average
+2464,Student_1464,ME,47,69,Pass,Short Attendance,Average
+2465,Student_1465,CE,96,64,Pass,Short Attendance,Excellent
+2466,Student_1466,IT,98,67,Pass,Short Attendance,Excellent
+2467,Student_1467,CE,63,73,Pass,Short Attendance,Good
+2468,Student_1468,ECE,23,84,Fail,Eligible,Poor
+2469,Student_1469,CSE,28,95,Fail,Eligible,Poor
+2470,Student_1470,IT,24,87,Fail,Eligible,Poor
+2471,Student_1471,ECE,75,86,Pass,Eligible,Very Good
+2472,Student_1472,ECE,69,64,Pass,Short Attendance,Good
+2473,Student_1473,IT,94,49,Pass,Short Attendance,Excellent
+2474,Student_1474,CE,34,53,Fail,Short Attendance,Poor
+2475,Student_1475,ECE,51,81,Pass,Eligible,Good
+2476,Student_1476,ME,47,96,Pass,Eligible,Average
+2477,Student_1477,ECE,41,85,Pass,Eligible,Average
+2478,Student_1478,CE,36,97,Fail,Eligible,Poor
+2479,Student_1479,CE,78,69,Pass,Short Attendance,Very Good
+2480,Student_1480,ME,90,94,Pass,Eligible,Excellent
+2481,Student_1481,ECE,76,80,Pass,Eligible,Very Good
+2482,Student_1482,CE,45,64,Pass,Short Attendance,Average
+2483,Student_1483,IT,44,53,Pass,Short Attendance,Average
+2484,Student_1484,CSE,29,74,Fail,Short Attendance,Poor
+2485,Student_1485,CSE,64,91,Pass,Eligible,Good
+2486,Student_1486,CSE,30,87,Fail,Eligible,Poor
+2487,Student_1487,ECE,96,73,Pass,Short Attendance,Excellent
+2488,Student_1488,ME,72,49,Pass,Short Attendance,Very Good
+2489,Student_1489,CE,91,74,Pass,Short Attendance,Excellent
+2490,Student_1490,IT,87,50,Pass,Short Attendance,Excellent
+2491,Student_1491,IT,47,50,Pass,Short Attendance,Average
+2492,Student_1492,ECE,94,60,Pass,Short Attendance,Excellent
+2493,Student_1493,CSE,84,60,Pass,Short Attendance,Very Good
+2494,Student_1494,ECE,68,61,Pass,Short Attendance,Good
+2495,Student_1495,ME,66,84,Pass,Eligible,Good
+2496,Student_1496,ME,71,46,Pass,Short Attendance,Very Good
+2497,Student_1497,CE,73,94,Pass,Eligible,Very Good
+2498,Student_1498,CE,79,56,Pass,Short Attendance,Very Good
+2499,Student_1499,ME,76,41,Pass,Short Attendance,Very Good
+2500,Student_1500,ME,66,51,Pass,Short Attendance,Good
+2501,Student_1501,ME,50,96,Pass,Eligible,Good
+2502,Student_1502,ECE,65,81,Pass,Eligible,Good
+2503,Student_1503,ME,45,57,Pass,Short Attendance,Average
+2504,Student_1504,IT,24,93,Fail,Eligible,Poor
+2505,Student_1505,CSE,71,98,Pass,Eligible,Very Good
+2506,Student_1506,ME,94,50,Pass,Short Attendance,Excellent
+2507,Student_1507,CSE,73,55,Pass,Short Attendance,Very Good
+2508,Student_1508,ECE,52,88,Pass,Eligible,Good
+2509,Student_1509,CSE,69,90,Pass,Eligible,Good
+2510,Student_1510,ECE,57,57,Pass,Short Attendance,Good
+2511,Student_1511,IT,46,74,Pass,Short Attendance,Average
+2512,Student_1512,ECE,34,92,Fail,Eligible,Poor
+2513,Student_1513,ECE,80,98,Pass,Eligible,Very Good
+2514,Student_1514,CE,40,65,Pass,Short Attendance,Average
+2515,Student_1515,ME,65,55,Pass,Short Attendance,Good
+2516,Student_1516,ME,88,45,Pass,Short Attendance,Excellent
+2517,Student_1517,IT,25,96,Fail,Eligible,Poor
+2518,Student_1518,IT,57,83,Pass,Eligible,Good
+2519,Student_1519,ME,81,82,Pass,Eligible,Very Good
+2520,Student_1520,CE,81,86,Pass,Eligible,Very Good
+2521,Student_1521,ME,97,86,Pass,Eligible,Excellent
+2522,Student_1522,CE,93,87,Pass,Eligible,Excellent
+2523,Student_1523,IT,65,81,Pass,Eligible,Good
+2524,Student_1524,CSE,32,51,Fail,Short Attendance,Poor
+2525,Student_1525,IT,22,99,Fail,Eligible,Poor
+2526,Student_1526,IT,25,52,Fail,Short Attendance,Poor
+2527,Student_1527,ECE,27,43,Fail,Short Attendance,Poor
+2528,Student_1528,ECE,63,78,Pass,Eligible,Good
+2529,Student_1529,ECE,52,93,Pass,Eligible,Good
+2530,Student_1530,ECE,100,41,Pass,Short Attendance,Excellent
+2531,Student_1531,CE,94,65,Pass,Short Attendance,Excellent
+2532,Student_1532,ME,96,98,Pass,Eligible,Excellent
+2533,Student_1533,CSE,69,66,Pass,Short Attendance,Good
+2534,Student_1534,IT,30,66,Fail,Short Attendance,Poor
+2535,Student_1535,CE,47,54,Pass,Short Attendance,Average
+2536,Student_1536,CSE,89,47,Pass,Short Attendance,Excellent
+2537,Student_1537,CE,60,46,Pass,Short Attendance,Good
+2538,Student_1538,CE,35,86,Fail,Eligible,Poor
+2539,Student_1539,IT,87,94,Pass,Eligible,Excellent
+2540,Student_1540,ME,67,85,Pass,Eligible,Good
+2541,Student_1541,ECE,75,79,Pass,Eligible,Very Good
+2542,Student_1542,ME,83,99,Pass,Eligible,Very Good
+2543,Student_1543,IT,78,51,Pass,Short Attendance,Very Good
+2544,Student_1544,IT,81,52,Pass,Short Attendance,Very Good
+2545,Student_1545,IT,95,82,Pass,Eligible,Excellent
+2546,Student_1546,CSE,30,56,Fail,Short Attendance,Poor
+2547,Student_1547,ME,37,100,Fail,Eligible,Poor
+2548,Student_1548,ME,38,56,Fail,Short Attendance,Poor
+2549,Student_1549,CE,74,95,Pass,Eligible,Very Good
+2550,Student_1550,CE,45,75,Pass,Eligible,Average
+2551,Student_1551,CE,25,60,Fail,Short Attendance,Poor
+2552,Student_1552,IT,23,47,Fail,Short Attendance,Poor
+2553,Student_1553,ME,48,44,Pass,Short Attendance,Average
+2554,Student_1554,IT,78,65,Pass,Short Attendance,Very Good
+2555,Student_1555,CSE,36,55,Fail,Short Attendance,Poor
+2556,Student_1556,CE,62,75,Pass,Eligible,Good
+2557,Student_1557,IT,99,67,Pass,Short Attendance,Excellent
+2558,Student_1558,IT,85,93,Pass,Eligible,Excellent
+2559,Student_1559,CSE,53,68,Pass,Short Attendance,Good
+2560,Student_1560,ECE,27,86,Fail,Eligible,Poor
+2561,Student_1561,ME,32,51,Fail,Short Attendance,Poor
+2562,Student_1562,ECE,27,76,Fail,Eligible,Poor
+2563,Student_1563,CE,84,69,Pass,Short Attendance,Very Good
+2564,Student_1564,IT,62,62,Pass,Short Attendance,Good
+2565,Student_1565,CSE,58,55,Pass,Short Attendance,Good
+2566,Student_1566,CSE,100,53,Pass,Short Attendance,Excellent
+2567,Student_1567,ME,78,49,Pass,Short Attendance,Very Good
+2568,Student_1568,ECE,63,46,Pass,Short Attendance,Good
+2569,Student_1569,ME,28,84,Fail,Eligible,Poor
+2570,Student_1570,IT,56,91,Pass,Eligible,Good
+2571,Student_1571,ME,93,99,Pass,Eligible,Excellent
+2572,Student_1572,CSE,55,100,Pass,Eligible,Good
+2573,Student_1573,CSE,47,76,Pass,Eligible,Average
+2574,Student_1574,CE,61,68,Pass,Short Attendance,Good
+2575,Student_1575,CE,62,42,Pass,Short Attendance,Good
+2576,Student_1576,IT,61,54,Pass,Short Attendance,Good
+2577,Student_1577,ECE,85,75,Pass,Eligible,Excellent
+2578,Student_1578,ME,74,86,Pass,Eligible,Very Good
+2579,Student_1579,IT,91,85,Pass,Eligible,Excellent
+2580,Student_1580,CE,67,91,Pass,Eligible,Good
+2581,Student_1581,ME,41,58,Pass,Short Attendance,Average
+2582,Student_1582,CE,46,52,Pass,Short Attendance,Average
+2583,Student_1583,ME,86,81,Pass,Eligible,Excellent
+2584,Student_1584,ECE,32,60,Fail,Short Attendance,Poor
+2585,Student_1585,IT,64,76,Pass,Eligible,Good
+2586,Student_1586,ME,29,66,Fail,Short Attendance,Poor
+2587,Student_1587,CSE,28,94,Fail,Eligible,Poor
+2588,Student_1588,CSE,73,91,Pass,Eligible,Very Good
+2589,Student_1589,ME,46,68,Pass,Short Attendance,Average
+2590,Student_1590,ME,53,59,Pass,Short Attendance,Good
+2591,Student_1591,ME,20,64,Fail,Short Attendance,Poor
+2592,Student_1592,CSE,51,45,Pass,Short Attendance,Good
+2593,Student_1593,CSE,90,75,Pass,Eligible,Excellent
+2594,Student_1594,ME,86,41,Pass,Short Attendance,Excellent
+2595,Student_1595,CE,39,61,Fail,Short Attendance,Poor
+2596,Student_1596,CE,54,71,Pass,Short Attendance,Good
+2597,Student_1597,ECE,97,55,Pass,Short Attendance,Excellent
+2598,Student_1598,IT,36,57,Fail,Short Attendance,Poor
+2599,Student_1599,CE,37,44,Fail,Short Attendance,Poor
+2600,Student_1600,CSE,64,93,Pass,Eligible,Good
+2601,Student_1601,CE,72,75,Pass,Eligible,Very Good
+2602,Student_1602,ECE,87,69,Pass,Short Attendance,Excellent
+2603,Student_1603,ECE,84,84,Pass,Eligible,Very Good
+2604,Student_1604,IT,20,58,Fail,Short Attendance,Poor
+2605,Student_1605,CE,77,62,Pass,Short Attendance,Very Good
+2606,Student_1606,CSE,45,73,Pass,Short Attendance,Average
+2607,Student_1607,CSE,39,52,Fail,Short Attendance,Poor
+2608,Student_1608,ME,29,82,Fail,Eligible,Poor
+2609,Student_1609,CSE,78,93,Pass,Eligible,Very Good
+2610,Student_1610,IT,94,68,Pass,Short Attendance,Excellent
+2611,Student_1611,IT,60,75,Pass,Eligible,Good
+2612,Student_1612,CSE,24,61,Fail,Short Attendance,Poor
+2613,Student_1613,CSE,84,91,Pass,Eligible,Very Good
+2614,Student_1614,ME,36,91,Fail,Eligible,Poor
+2615,Student_1615,CSE,41,86,Pass,Eligible,Average
+2616,Student_1616,ME,60,75,Pass,Eligible,Good
+2617,Student_1617,ME,87,48,Pass,Short Attendance,Excellent
+2618,Student_1618,CSE,88,78,Pass,Eligible,Excellent
+2619,Student_1619,ECE,30,90,Fail,Eligible,Poor
+2620,Student_1620,ECE,75,58,Pass,Short Attendance,Very Good
+2621,Student_1621,ME,70,77,Pass,Eligible,Very Good
+2622,Student_1622,CSE,40,45,Pass,Short Attendance,Average
+2623,Student_1623,ECE,95,91,Pass,Eligible,Excellent
+2624,Student_1624,CSE,45,86,Pass,Eligible,Average
+2625,Student_1625,CSE,38,54,Fail,Short Attendance,Poor
+2626,Student_1626,CSE,79,96,Pass,Eligible,Very Good
+2627,Student_1627,CE,90,59,Pass,Short Attendance,Excellent
+2628,Student_1628,CSE,66,48,Pass,Short Attendance,Good
+2629,Student_1629,CE,90,71,Pass,Short Attendance,Excellent
+2630,Student_1630,ME,45,43,Pass,Short Attendance,Average
+2631,Student_1631,ECE,59,89,Pass,Eligible,Good
+2632,Student_1632,ECE,24,57,Fail,Short Attendance,Poor
+2633,Student_1633,ECE,40,44,Pass,Short Attendance,Average
+2634,Student_1634,ECE,97,59,Pass,Short Attendance,Excellent
+2635,Student_1635,ECE,23,62,Fail,Short Attendance,Poor
+2636,Student_1636,ECE,42,50,Pass,Short Attendance,Average
+2637,Student_1637,ECE,34,76,Fail,Eligible,Poor
+2638,Student_1638,ME,27,61,Fail,Short Attendance,Poor
+2639,Student_1639,CSE,60,97,Pass,Eligible,Good
+2640,Student_1640,IT,38,43,Fail,Short Attendance,Poor
+2641,Student_1641,CE,65,68,Pass,Short Attendance,Good
+2642,Student_1642,IT,47,83,Pass,Eligible,Average
+2643,Student_1643,IT,87,73,Pass,Short Attendance,Excellent
+2644,Student_1644,CSE,34,52,Fail,Short Attendance,Poor
+2645,Student_1645,CSE,56,81,Pass,Eligible,Good
+2646,Student_1646,CSE,20,48,Fail,Short Attendance,Poor
+2647,Student_1647,ECE,86,81,Pass,Eligible,Excellent
+2648,Student_1648,ME,43,70,Pass,Short Attendance,Average
+2649,Student_1649,ECE,46,46,Pass,Short Attendance,Average
+2650,Student_1650,ME,59,43,Pass,Short Attendance,Good
+2651,Student_1651,ME,82,58,Pass,Short Attendance,Very Good
+2652,Student_1652,IT,80,81,Pass,Eligible,Very Good
+2653,Student_1653,IT,55,69,Pass,Short Attendance,Good
+2654,Student_1654,ME,43,70,Pass,Short Attendance,Average
+2655,Student_1655,ME,43,74,Pass,Short Attendance,Average
+2656,Student_1656,ECE,23,96,Fail,Eligible,Poor
+2657,Student_1657,ECE,86,60,Pass,Short Attendance,Excellent
+2658,Student_1658,IT,53,100,Pass,Eligible,Good
+2659,Student_1659,CSE,76,70,Pass,Short Attendance,Very Good
+2660,Student_1660,ME,68,58,Pass,Short Attendance,Good
+2661,Student_1661,ECE,72,70,Pass,Short Attendance,Very Good
+2662,Student_1662,IT,42,92,Pass,Eligible,Average
+2663,Student_1663,ECE,88,71,Pass,Short Attendance,Excellent
+2664,Student_1664,ME,72,41,Pass,Short Attendance,Very Good
+2665,Student_1665,ME,81,98,Pass,Eligible,Very Good
+2666,Student_1666,CE,60,91,Pass,Eligible,Good
+2667,Student_1667,CSE,76,49,Pass,Short Attendance,Very Good
+2668,Student_1668,CE,79,41,Pass,Short Attendance,Very Good
+2669,Student_1669,IT,73,41,Pass,Short Attendance,Very Good
+2670,Student_1670,ECE,89,99,Pass,Eligible,Excellent
+2671,Student_1671,IT,76,63,Pass,Short Attendance,Very Good
+2672,Student_1672,ME,29,56,Fail,Short Attendance,Poor
+2673,Student_1673,CE,59,71,Pass,Short Attendance,Good
+2674,Student_1674,CE,26,55,Fail,Short Attendance,Poor
+2675,Student_1675,CE,57,55,Pass,Short Attendance,Good
+2676,Student_1676,IT,80,85,Pass,Eligible,Very Good
+2677,Student_1677,ME,22,78,Fail,Eligible,Poor
+2678,Student_1678,ECE,70,92,Pass,Eligible,Very Good
+2679,Student_1679,ECE,66,70,Pass,Short Attendance,Good
+2680,Student_1680,IT,87,82,Pass,Eligible,Excellent
+2681,Student_1681,CE,95,63,Pass,Short Attendance,Excellent
+2682,Student_1682,CSE,57,40,Pass,Short Attendance,Good
+2683,Student_1683,IT,55,50,Pass,Short Attendance,Good
+2684,Student_1684,IT,60,94,Pass,Eligible,Good
+2685,Student_1685,ME,88,60,Pass,Short Attendance,Excellent
+2686,Student_1686,ECE,32,43,Fail,Short Attendance,Poor
+2687,Student_1687,IT,77,46,Pass,Short Attendance,Very Good
+2688,Student_1688,IT,69,65,Pass,Short Attendance,Good
+2689,Student_1689,CE,49,86,Pass,Eligible,Average
+2690,Student_1690,CE,81,89,Pass,Eligible,Very Good
+2691,Student_1691,CSE,44,51,Pass,Short Attendance,Average
+2692,Student_1692,ME,46,70,Pass,Short Attendance,Average
+2693,Student_1693,CSE,70,56,Pass,Short Attendance,Very Good
+2694,Student_1694,CE,97,72,Pass,Short Attendance,Excellent
+2695,Student_1695,ECE,76,50,Pass,Short Attendance,Very Good
+2696,Student_1696,CE,66,67,Pass,Short Attendance,Good
+2697,Student_1697,ME,58,71,Pass,Short Attendance,Good
+2698,Student_1698,CE,35,40,Fail,Short Attendance,Poor
+2699,Student_1699,ME,41,86,Pass,Eligible,Average
+2700,Student_1700,ME,73,67,Pass,Short Attendance,Very Good
+2701,Student_1701,ME,40,92,Pass,Eligible,Average
+2702,Student_1702,ME,91,81,Pass,Eligible,Excellent
+2703,Student_1703,ME,35,46,Fail,Short Attendance,Poor
+2704,Student_1704,ECE,78,41,Pass,Short Attendance,Very Good
+2705,Student_1705,CSE,50,81,Pass,Eligible,Good
+2706,Student_1706,IT,61,63,Pass,Short Attendance,Good
+2707,Student_1707,CSE,93,43,Pass,Short Attendance,Excellent
+2708,Student_1708,ME,51,83,Pass,Eligible,Good
+2709,Student_1709,ECE,78,58,Pass,Short Attendance,Very Good
+2710,Student_1710,CE,53,65,Pass,Short Attendance,Good
+2711,Student_1711,ECE,28,50,Fail,Short Attendance,Poor
+2712,Student_1712,ME,100,79,Pass,Eligible,Excellent
+2713,Student_1713,ECE,30,89,Fail,Eligible,Poor
+2714,Student_1714,ECE,29,82,Fail,Eligible,Poor
+2715,Student_1715,ME,36,50,Fail,Short Attendance,Poor
+2716,Student_1716,ECE,87,84,Pass,Eligible,Excellent
+2717,Student_1717,IT,67,42,Pass,Short Attendance,Good
+2718,Student_1718,IT,71,51,Pass,Short Attendance,Very Good
+2719,Student_1719,ECE,44,42,Pass,Short Attendance,Average
+2720,Student_1720,CE,40,81,Pass,Eligible,Average
+2721,Student_1721,ME,84,66,Pass,Short Attendance,Very Good
+2722,Student_1722,IT,82,88,Pass,Eligible,Very Good
+2723,Student_1723,CE,70,93,Pass,Eligible,Very Good
+2724,Student_1724,ECE,55,41,Pass,Short Attendance,Good
+2725,Student_1725,CE,100,88,Pass,Eligible,Excellent
+2726,Student_1726,CSE,85,55,Pass,Short Attendance,Excellent
+2727,Student_1727,IT,34,41,Fail,Short Attendance,Poor
+2728,Student_1728,ECE,58,99,Pass,Eligible,Good
+2729,Student_1729,ME,89,93,Pass,Eligible,Excellent
+2730,Student_1730,ECE,20,69,Fail,Short Attendance,Poor
+2731,Student_1731,ME,42,59,Pass,Short Attendance,Average
+2732,Student_1732,ECE,58,77,Pass,Eligible,Good
+2733,Student_1733,CE,76,67,Pass,Short Attendance,Very Good
+2734,Student_1734,CE,100,64,Pass,Short Attendance,Excellent
+2735,Student_1735,CE,53,71,Pass,Short Attendance,Good
+2736,Student_1736,CSE,60,100,Pass,Eligible,Good
+2737,Student_1737,ME,92,49,Pass,Short Attendance,Excellent
+2738,Student_1738,CE,32,99,Fail,Eligible,Poor
+2739,Student_1739,CSE,89,81,Pass,Eligible,Excellent
+2740,Student_1740,ME,25,79,Fail,Eligible,Poor
+2741,Student_1741,ECE,71,72,Pass,Short Attendance,Very Good
+2742,Student_1742,CSE,22,52,Fail,Short Attendance,Poor
+2743,Student_1743,IT,100,95,Pass,Eligible,Excellent
+2744,Student_1744,CSE,82,80,Pass,Eligible,Very Good
+2745,Student_1745,CSE,68,93,Pass,Eligible,Good
+2746,Student_1746,ME,95,81,Pass,Eligible,Excellent
+2747,Student_1747,ECE,66,86,Pass,Eligible,Good
+2748,Student_1748,IT,74,76,Pass,Eligible,Very Good
+2749,Student_1749,CE,83,93,Pass,Eligible,Very Good
+2750,Student_1750,CE,84,55,Pass,Short Attendance,Very Good
+2751,Student_1751,CSE,100,84,Pass,Eligible,Excellent
+2752,Student_1752,ME,86,61,Pass,Short Attendance,Excellent
+2753,Student_1753,ME,34,96,Fail,Eligible,Poor
+2754,Student_1754,CE,51,59,Pass,Short Attendance,Good
+2755,Student_1755,IT,87,89,Pass,Eligible,Excellent
+2756,Student_1756,ECE,37,82,Fail,Eligible,Poor
+2757,Student_1757,IT,62,66,Pass,Short Attendance,Good
+2758,Student_1758,ECE,54,80,Pass,Eligible,Good
+2759,Student_1759,CE,97,55,Pass,Short Attendance,Excellent
+2760,Student_1760,ECE,77,73,Pass,Short Attendance,Very Good
+2761,Student_1761,ME,52,71,Pass,Short Attendance,Good
+2762,Student_1762,CSE,33,65,Fail,Short Attendance,Poor
+2763,Student_1763,CSE,53,64,Pass,Short Attendance,Good
+2764,Student_1764,CE,80,41,Pass,Short Attendance,Very Good
+2765,Student_1765,ME,23,51,Fail,Short Attendance,Poor
+2766,Student_1766,IT,78,79,Pass,Eligible,Very Good
+2767,Student_1767,ME,48,48,Pass,Short Attendance,Average
+2768,Student_1768,CSE,25,51,Fail,Short Attendance,Poor
+2769,Student_1769,CSE,68,65,Pass,Short Attendance,Good
+2770,Student_1770,ME,59,48,Pass,Short Attendance,Good
+2771,Student_1771,ME,84,49,Pass,Short Attendance,Very Good
+2772,Student_1772,CSE,88,71,Pass,Short Attendance,Excellent
+2773,Student_1773,IT,46,96,Pass,Eligible,Average
+2774,Student_1774,CE,99,73,Pass,Short Attendance,Excellent
+2775,Student_1775,CE,25,87,Fail,Eligible,Poor
+2776,Student_1776,ME,32,59,Fail,Short Attendance,Poor
+2777,Student_1777,CE,83,78,Pass,Eligible,Very Good
+2778,Student_1778,CSE,81,99,Pass,Eligible,Very Good
+2779,Student_1779,CSE,38,41,Fail,Short Attendance,Poor
+2780,Student_1780,ME,95,40,Pass,Short Attendance,Excellent
+2781,Student_1781,ME,99,90,Pass,Eligible,Excellent
+2782,Student_1782,ME,62,99,Pass,Eligible,Good
+2783,Student_1783,IT,93,75,Pass,Eligible,Excellent
+2784,Student_1784,CE,39,63,Fail,Short Attendance,Poor
+2785,Student_1785,ME,87,93,Pass,Eligible,Excellent
+2786,Student_1786,ECE,63,66,Pass,Short Attendance,Good
+2787,Student_1787,ECE,42,41,Pass,Short Attendance,Average
+2788,Student_1788,CSE,21,70,Fail,Short Attendance,Poor
+2789,Student_1789,CE,41,96,Pass,Eligible,Average
+2790,Student_1790,ME,76,53,Pass,Short Attendance,Very Good
+2791,Student_1791,ECE,91,41,Pass,Short Attendance,Excellent
+2792,Student_1792,CE,26,68,Fail,Short Attendance,Poor
+2793,Student_1793,CSE,97,54,Pass,Short Attendance,Excellent
+2794,Student_1794,IT,75,51,Pass,Short Attendance,Very Good
+2795,Student_1795,CE,86,76,Pass,Eligible,Excellent
+2796,Student_1796,CE,35,67,Fail,Short Attendance,Poor
+2797,Student_1797,IT,70,59,Pass,Short Attendance,Very Good
+2798,Student_1798,CE,99,100,Pass,Eligible,Excellent
+2799,Student_1799,CSE,91,78,Pass,Eligible,Excellent
+2800,Student_1800,CSE,31,63,Fail,Short Attendance,Poor
+2801,Student_1801,IT,72,60,Pass,Short Attendance,Very Good
+2802,Student_1802,ME,94,49,Pass,Short Attendance,Excellent
+2803,Student_1803,ECE,24,85,Fail,Eligible,Poor
+2804,Student_1804,ME,46,53,Pass,Short Attendance,Average
+2805,Student_1805,CE,31,76,Fail,Eligible,Poor
+2806,Student_1806,ECE,36,57,Fail,Short Attendance,Poor
+2807,Student_1807,IT,25,63,Fail,Short Attendance,Poor
+2808,Student_1808,IT,24,53,Fail,Short Attendance,Poor
+2809,Student_1809,ECE,76,73,Pass,Short Attendance,Very Good
+2810,Student_1810,CSE,47,97,Pass,Eligible,Average
+2811,Student_1811,ECE,97,51,Pass,Short Attendance,Excellent
+2812,Student_1812,CE,88,61,Pass,Short Attendance,Excellent
+2813,Student_1813,CSE,78,95,Pass,Eligible,Very Good
+2814,Student_1814,IT,52,45,Pass,Short Attendance,Good
+2815,Student_1815,ECE,81,75,Pass,Eligible,Very Good
+2816,Student_1816,ME,69,84,Pass,Eligible,Good
+2817,Student_1817,ME,38,75,Fail,Eligible,Poor
+2818,Student_1818,CE,88,61,Pass,Short Attendance,Excellent
+2819,Student_1819,ME,85,53,Pass,Short Attendance,Excellent
+2820,Student_1820,ECE,66,55,Pass,Short Attendance,Good
+2821,Student_1821,ECE,58,100,Pass,Eligible,Good
+2822,Student_1822,ME,87,75,Pass,Eligible,Excellent
+2823,Student_1823,ECE,52,95,Pass,Eligible,Good
+2824,Student_1824,CE,32,64,Fail,Short Attendance,Poor
+2825,Student_1825,CSE,73,71,Pass,Short Attendance,Very Good
+2826,Student_1826,CE,26,72,Fail,Short Attendance,Poor
+2827,Student_1827,CE,98,84,Pass,Eligible,Excellent
+2828,Student_1828,ECE,33,75,Fail,Eligible,Poor
+2829,Student_1829,CSE,38,59,Fail,Short Attendance,Poor
+2830,Student_1830,ECE,73,57,Pass,Short Attendance,Very Good
+2831,Student_1831,IT,39,77,Fail,Eligible,Poor
+2832,Student_1832,ECE,48,42,Pass,Short Attendance,Average
+2833,Student_1833,ECE,43,62,Pass,Short Attendance,Average
+2834,Student_1834,ECE,82,71,Pass,Short Attendance,Very Good
+2835,Student_1835,CSE,93,84,Pass,Eligible,Excellent
+2836,Student_1836,ECE,76,98,Pass,Eligible,Very Good
+2837,Student_1837,CSE,27,55,Fail,Short Attendance,Poor
+2838,Student_1838,ME,81,98,Pass,Eligible,Very Good
+2839,Student_1839,IT,48,44,Pass,Short Attendance,Average
+2840,Student_1840,CSE,93,43,Pass,Short Attendance,Excellent
+2841,Student_1841,ME,36,60,Fail,Short Attendance,Poor
+2842,Student_1842,CSE,85,79,Pass,Eligible,Excellent
+2843,Student_1843,CSE,25,90,Fail,Eligible,Poor
+2844,Student_1844,IT,77,53,Pass,Short Attendance,Very Good
+2845,Student_1845,CE,88,78,Pass,Eligible,Excellent
+2846,Student_1846,CE,47,70,Pass,Short Attendance,Average
+2847,Student_1847,CSE,81,53,Pass,Short Attendance,Very Good
+2848,Student_1848,ECE,60,45,Pass,Short Attendance,Good
+2849,Student_1849,ME,88,51,Pass,Short Attendance,Excellent
+2850,Student_1850,ECE,60,55,Pass,Short Attendance,Good
+2851,Student_1851,ECE,68,56,Pass,Short Attendance,Good
+2852,Student_1852,CSE,68,84,Pass,Eligible,Good
+2853,Student_1853,CSE,95,62,Pass,Short Attendance,Excellent
+2854,Student_1854,CSE,90,53,Pass,Short Attendance,Excellent
+2855,Student_1855,CSE,22,100,Fail,Eligible,Poor
+2856,Student_1856,CE,29,46,Fail,Short Attendance,Poor
+2857,Student_1857,CSE,54,85,Pass,Eligible,Good
+2858,Student_1858,CE,99,71,Pass,Short Attendance,Excellent
+2859,Student_1859,CE,21,54,Fail,Short Attendance,Poor
+2860,Student_1860,CSE,43,83,Pass,Eligible,Average
+2861,Student_1861,IT,93,56,Pass,Short Attendance,Excellent
+2862,Student_1862,ME,57,80,Pass,Eligible,Good
+2863,Student_1863,ECE,41,93,Pass,Eligible,Average
+2864,Student_1864,CE,45,86,Pass,Eligible,Average
+2865,Student_1865,ME,62,83,Pass,Eligible,Good
+2866,Student_1866,IT,74,73,Pass,Short Attendance,Very Good
+2867,Student_1867,ECE,58,44,Pass,Short Attendance,Good
+2868,Student_1868,ECE,48,84,Pass,Eligible,Average
+2869,Student_1869,CE,39,66,Fail,Short Attendance,Poor
+2870,Student_1870,CSE,60,91,Pass,Eligible,Good
+2871,Student_1871,IT,73,62,Pass,Short Attendance,Very Good
+2872,Student_1872,CE,39,79,Fail,Eligible,Poor
+2873,Student_1873,IT,38,98,Fail,Eligible,Poor
+2874,Student_1874,CSE,85,53,Pass,Short Attendance,Excellent
+2875,Student_1875,CSE,49,54,Pass,Short Attendance,Average
+2876,Student_1876,CE,72,82,Pass,Eligible,Very Good
+2877,Student_1877,CSE,53,72,Pass,Short Attendance,Good
+2878,Student_1878,ME,41,92,Pass,Eligible,Average
+2879,Student_1879,ECE,86,70,Pass,Short Attendance,Excellent
+2880,Student_1880,CE,25,74,Fail,Short Attendance,Poor
+2881,Student_1881,IT,98,56,Pass,Short Attendance,Excellent
+2882,Student_1882,ME,46,67,Pass,Short Attendance,Average
+2883,Student_1883,CE,29,58,Fail,Short Attendance,Poor
+2884,Student_1884,CSE,92,85,Pass,Eligible,Excellent
+2885,Student_1885,CSE,67,93,Pass,Eligible,Good
+2886,Student_1886,CSE,89,62,Pass,Short Attendance,Excellent
+2887,Student_1887,CSE,78,71,Pass,Short Attendance,Very Good
+2888,Student_1888,IT,78,79,Pass,Eligible,Very Good
+2889,Student_1889,ME,21,52,Fail,Short Attendance,Poor
+2890,Student_1890,ECE,48,98,Pass,Eligible,Average
+2891,Student_1891,IT,87,59,Pass,Short Attendance,Excellent
+2892,Student_1892,IT,84,74,Pass,Short Attendance,Very Good
+2893,Student_1893,ECE,45,44,Pass,Short Attendance,Average
+2894,Student_1894,ECE,29,48,Fail,Short Attendance,Poor
+2895,Student_1895,CSE,72,68,Pass,Short Attendance,Very Good
+2896,Student_1896,IT,98,45,Pass,Short Attendance,Excellent
+2897,Student_1897,CE,78,64,Pass,Short Attendance,Very Good
+2898,Student_1898,ECE,41,70,Pass,Short Attendance,Average
+2899,Student_1899,ECE,70,61,Pass,Short Attendance,Very Good
+2900,Student_1900,ME,67,41,Pass,Short Attendance,Good
+2901,Student_1901,CE,40,84,Pass,Eligible,Average
+2902,Student_1902,CE,41,44,Pass,Short Attendance,Average
+2903,Student_1903,ECE,49,99,Pass,Eligible,Average
+2904,Student_1904,CSE,44,66,Pass,Short Attendance,Average
+2905,Student_1905,ME,47,64,Pass,Short Attendance,Average
+2906,Student_1906,CE,84,47,Pass,Short Attendance,Very Good
+2907,Student_1907,ECE,64,94,Pass,Eligible,Good
+2908,Student_1908,CE,87,40,Pass,Short Attendance,Excellent
+2909,Student_1909,ME,26,59,Fail,Short Attendance,Poor
+2910,Student_1910,ME,68,83,Pass,Eligible,Good
+2911,Student_1911,IT,28,62,Fail,Short Attendance,Poor
+2912,Student_1912,ECE,55,71,Pass,Short Attendance,Good
+2913,Student_1913,ME,20,50,Fail,Short Attendance,Poor
+2914,Student_1914,IT,29,78,Fail,Eligible,Poor
+2915,Student_1915,IT,55,86,Pass,Eligible,Good
+2916,Student_1916,CE,92,93,Pass,Eligible,Excellent
+2917,Student_1917,CE,65,63,Pass,Short Attendance,Good
+2918,Student_1918,IT,51,50,Pass,Short Attendance,Good
+2919,Student_1919,CE,51,68,Pass,Short Attendance,Good
+2920,Student_1920,ME,25,93,Fail,Eligible,Poor
+2921,Student_1921,CSE,67,65,Pass,Short Attendance,Good
+2922,Student_1922,ME,57,55,Pass,Short Attendance,Good
+2923,Student_1923,IT,36,74,Fail,Short Attendance,Poor
+2924,Student_1924,IT,93,59,Pass,Short Attendance,Excellent
+2925,Student_1925,ME,46,85,Pass,Eligible,Average
+2926,Student_1926,CE,73,42,Pass,Short Attendance,Very Good
+2927,Student_1927,CE,69,40,Pass,Short Attendance,Good
+2928,Student_1928,IT,54,97,Pass,Eligible,Good
+2929,Student_1929,ECE,44,92,Pass,Eligible,Average
+2930,Student_1930,CE,47,86,Pass,Eligible,Average
+2931,Student_1931,ME,34,40,Fail,Short Attendance,Poor
+2932,Student_1932,CE,23,56,Fail,Short Attendance,Poor
+2933,Student_1933,ME,92,41,Pass,Short Attendance,Excellent
+2934,Student_1934,IT,46,68,Pass,Short Attendance,Average
+2935,Student_1935,CE,45,59,Pass,Short Attendance,Average
+2936,Student_1936,ME,38,45,Fail,Short Attendance,Poor
+2937,Student_1937,IT,36,47,Fail,Short Attendance,Poor
+2938,Student_1938,ECE,62,68,Pass,Short Attendance,Good
+2939,Student_1939,ME,60,87,Pass,Eligible,Good
+2940,Student_1940,ECE,61,90,Pass,Eligible,Good
+2941,Student_1941,ECE,69,72,Pass,Short Attendance,Good
+2942,Student_1942,CSE,59,42,Pass,Short Attendance,Good
+2943,Student_1943,CE,58,99,Pass,Eligible,Good
+2944,Student_1944,ME,42,74,Pass,Short Attendance,Average
+2945,Student_1945,ECE,71,44,Pass,Short Attendance,Very Good
+2946,Student_1946,CSE,66,66,Pass,Short Attendance,Good
+2947,Student_1947,IT,82,83,Pass,Eligible,Very Good
+2948,Student_1948,ME,88,51,Pass,Short Attendance,Excellent
+2949,Student_1949,ECE,62,59,Pass,Short Attendance,Good
+2950,Student_1950,CE,67,84,Pass,Eligible,Good
+2951,Student_1951,CSE,53,59,Pass,Short Attendance,Good
+2952,Student_1952,ECE,59,48,Pass,Short Attendance,Good
+2953,Student_1953,CE,94,78,Pass,Eligible,Excellent
+2954,Student_1954,ECE,80,43,Pass,Short Attendance,Very Good
+2955,Student_1955,ME,69,90,Pass,Eligible,Good
+2956,Student_1956,ME,86,93,Pass,Eligible,Excellent
+2957,Student_1957,ME,81,58,Pass,Short Attendance,Very Good
+2958,Student_1958,CSE,77,77,Pass,Eligible,Very Good
+2959,Student_1959,ME,52,66,Pass,Short Attendance,Good
+2960,Student_1960,CE,94,84,Pass,Eligible,Excellent
+2961,Student_1961,ECE,35,82,Fail,Eligible,Poor
+2962,Student_1962,IT,67,52,Pass,Short Attendance,Good
+2963,Student_1963,CE,29,52,Fail,Short Attendance,Poor
+2964,Student_1964,CE,57,99,Pass,Eligible,Good
+2965,Student_1965,ME,38,96,Fail,Eligible,Poor
+2966,Student_1966,CSE,55,61,Pass,Short Attendance,Good
+2967,Student_1967,ECE,78,67,Pass,Short Attendance,Very Good
+2968,Student_1968,CSE,82,91,Pass,Eligible,Very Good
+2969,Student_1969,ECE,96,86,Pass,Eligible,Excellent
+2970,Student_1970,ECE,65,92,Pass,Eligible,Good
+2971,Student_1971,CSE,22,84,Fail,Eligible,Poor
+2972,Student_1972,CE,93,61,Pass,Short Attendance,Excellent
+2973,Student_1973,ECE,84,82,Pass,Eligible,Very Good
+2974,Student_1974,CSE,27,58,Fail,Short Attendance,Poor
+2975,Student_1975,ECE,70,47,Pass,Short Attendance,Very Good
+2976,Student_1976,IT,100,91,Pass,Eligible,Excellent
+2977,Student_1977,CE,92,47,Pass,Short Attendance,Excellent
+2978,Student_1978,ME,25,81,Fail,Eligible,Poor
+2979,Student_1979,ECE,58,65,Pass,Short Attendance,Good
+2980,Student_1980,IT,79,87,Pass,Eligible,Very Good
+2981,Student_1981,ME,47,90,Pass,Eligible,Average
+2982,Student_1982,ME,73,65,Pass,Short Attendance,Very Good
+2983,Student_1983,ECE,56,62,Pass,Short Attendance,Good
+2984,Student_1984,CSE,28,82,Fail,Eligible,Poor
+2985,Student_1985,ECE,75,52,Pass,Short Attendance,Very Good
+2986,Student_1986,IT,78,67,Pass,Short Attendance,Very Good
+2987,Student_1987,ME,21,48,Fail,Short Attendance,Poor
+2988,Student_1988,ECE,80,59,Pass,Short Attendance,Very Good
+2989,Student_1989,CSE,77,95,Pass,Eligible,Very Good
+2990,Student_1990,ECE,79,58,Pass,Short Attendance,Very Good
+2991,Student_1991,CE,59,87,Pass,Eligible,Good
+2992,Student_1992,CSE,55,78,Pass,Eligible,Good
+2993,Student_1993,IT,56,90,Pass,Eligible,Good
+2994,Student_1994,ME,98,51,Pass,Short Attendance,Excellent
+2995,Student_1995,ECE,37,54,Fail,Short Attendance,Poor
+2996,Student_1996,CSE,82,70,Pass,Short Attendance,Very Good
+2997,Student_1997,CE,41,94,Pass,Eligible,Average
+2998,Student_1998,CSE,30,53,Fail,Short Attendance,Poor
+2999,Student_1999,CE,77,50,Pass,Short Attendance,Very Good
+3000,Student_2000,IT,76,65,Pass,Short Attendance,Very Good
